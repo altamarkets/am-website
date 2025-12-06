@@ -1,0 +1,29 @@
+@import "@/styles/_breakpoints.scss";
+
+.provider-img {
+  &__provider {
+    width: 87.5px;
+    height: 77.67px;
+
+    @media (min-width: $screen-xsm) {
+      width: 157.5px;
+      height: 139.806px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 210px;
+      height: 186.408px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 134.643px;
+      height: 119.533px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 186.763px;
+      height: 172.064px;
+    }
+  }
+}
+

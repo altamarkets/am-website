@@ -1,0 +1,23 @@
+FROM mirror.gcr.io/ubuntu:22.04
+
+RUN apt-get update \
+    && apt-get install locales curl -y \
+    && locale-gen en_US.UTF-8
+
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US:en
+ENV LC_ALL en_US.UTF-8
+
+RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash \
+    && apt-get install -y nodejs
+
+RUN npm install -g http-server
+
+WORKDIR /project
+
+COPY ./project .
+
+RUN npm install
+RUN npm run generate
+
+WORKDIR /project/.output/public

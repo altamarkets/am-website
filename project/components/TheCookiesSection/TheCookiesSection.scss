@@ -1,0 +1,138 @@
+@import "@/styles/_breakpoints.scss";
+@import "@/styles/variables.scss";
+
+.the-cookies-section {
+  position: fixed;
+  bottom: 0;
+  z-index: 5;
+  width: 100%;
+
+  &__container {
+    width: 320px;
+    padding: 0 15px 15px;
+
+    @media (min-width: $screen-xsm) {
+      padding: 0 33px 33px;
+      width: 576px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 768px;
+    }
+
+    @media (min-width: $screen-md) {
+      padding: 0 31px 31px;
+      width: 992px;
+    }
+
+    @media (min-width: $screen-lg) {
+      padding: 0 15px 15px;
+      width: 1320px;
+    }
+  }
+
+  @-webkit-keyframes fade {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes fade {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  &__wrapper {
+    width: 218px;
+    height: 124px;
+    background: rgba(15, 17, 40, 0.5);
+    padding: 14px 20px 18px;
+    display: flex;
+    flex-direction: column;
+    backdrop-filter: blur(30px);
+    animation: fade 1s 3s forwards;
+    -webkit-animation: fade 1s 3s forwards;
+    opacity: 0;
+
+    @media (min-width: $screen-xsm) {
+      width: 476px;
+      height: 88px;
+      flex-direction: row;
+      gap: 30px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 478px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 743px;
+      height: 72px;
+      gap: 37px;
+    }
+  }
+
+  &__title {
+    color: white;
+    font-family: $fontFamily, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+
+    @media (min-width: $screen-xsm) {
+      font-size: 18px;
+      line-height: 24px;
+    }
+  }
+
+  &__description {
+    color: white;
+    font-family: Inter, sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 12px;
+
+    @media (min-width: $screen-xsm) {
+      font-size: 10px;
+      line-height: 16px;
+    }
+  }
+
+  &__link {
+    text-decoration: underline;
+  }
+
+  &__btn {
+    margin-top: 10px;
+    width: 178px;
+    height: 30px !important;
+
+    @media (min-width: $screen-xsm) {
+      margin-top: 17px;
+      width: 107px;
+      height: 40px !important;
+    }
+
+    @media (min-width: $screen-md) {
+      margin-top: 2px;
+    }
+  }
+
+  .app-btn {
+    font-size: 8px !important;
+    border: 1px solid white !important;
+    font-weight: 400 !important;
+    backdrop-filter: none !important;
+
+    @media (min-width: $screen-xsm) {
+      font-size: 14px !important;
+    }
+  }
+}

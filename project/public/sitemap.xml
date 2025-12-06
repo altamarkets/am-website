@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <url>
+    <loc>https://pidigital.swiss/</loc>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://pidigital.swiss/use</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pidigital.swiss/security</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pidigital.swiss/privacy</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pidigital.swiss/disclaimer</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pidigital.swiss/conditions</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pidigital.swiss/brochure</loc>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,42 @@
+@import "@/styles/_breakpoints.scss";
+
+.app-card-logo {
+  background-color: white;
+  flex: 0 1 48.275862069%;
+
+  @media (min-width: $screen-xsm) {
+    flex: 0 1 47.0588235294%;
+  }
+  @media (min-width: $screen-sm) {
+    flex: 0 1 30.4347826087%;
+  }
+  @media (min-width: $screen-md) {
+    flex: 0 1 calc((290 / 930) * 100%);
+  }
+  @media (min-width: $screen-lg) {
+    flex: 0 1 23.2558139535%;
+  }
+
+  img {
+    object-fit: contain;
+    width: 100%;
+    height: 46px;
+
+    @media (min-width: $screen-xsm) {
+      height: 80px;
+    }
+
+    @media (min-width: $screen-sm) {
+      height: 70px;
+    }
+
+    @media (min-width: $screen-md) {
+      height: 96.667px;
+    }
+
+    @media (min-width: $screen-lg) {
+      height: 100px;
+    }
+  }
+}
+

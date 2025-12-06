@@ -1,0 +1,244 @@
+@import "@/styles/variables";
+@import "@/styles/_breakpoints.scss";
+
+.the-execution-section {
+  background-color: white;
+  height: 680px;
+  position: relative;
+
+  @media (min-width: $screen-xsm) {
+    height: 774px;
+  }
+
+  @media (min-width: $screen-sm) {
+    height: 1378px;
+  }
+
+  &__container {
+    padding: 100px 15px 0;
+    display: flex;
+    justify-content: center;
+
+    @media (min-width: $screen-xsm) {
+      padding: 100px 33px 0;
+    }
+
+    @media (min-width: $screen-sm) {
+      padding: 200px 27px 0 40px;
+    }
+
+    @media (min-width: $screen-md) {
+      padding: 200px 30px 0;
+    }
+
+    @media (min-width: $screen-lg) {
+      padding: 200px 15px 0;
+    }
+  }
+
+  &__wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+
+    @media (min-width: $screen-xsm) {
+      width: 510px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 690px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 932px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 1290px;
+    }
+  }
+
+  &__mountains {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    object-fit: cover;
+
+    &-img {
+      width: 100%;
+
+      @media (min-width: $screen-xsm) {
+        display: block;
+        height: 300px;
+        object-fit: cover;
+      }
+
+      @media (min-width: $screen-sm) {
+        object-position: -315px;
+        height: 669px;
+      }
+
+      @media (min-width: $screen-md) {
+        object-position: -285px;
+      }
+
+      @media (min-width: $screen-lg) {
+        object-position: bottom;
+      }
+
+      @media (min-width: $screen-xl) {
+        object-fit: contain;
+      }
+    }
+  }
+
+  &__devices {
+    position: relative;
+    width: 100%;
+
+    @media (min-width: $screen-xl) {
+      width: 1320px;
+      margin: 0 auto;
+    }
+
+    &-phone {
+      position: absolute;
+      width: 88px;
+      top: -2px;
+      left: 460px;
+      z-index: 4;
+      opacity: 0;
+
+      @media (min-width: $screen-xsm) {
+        width: 160px;
+        top: -92px;
+        left: 605px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 348px;
+        top: -229px;
+        left: 846px;
+      }
+
+      @media (min-width: $screen-md) {
+        top: -503px;
+        left: 1070px;
+      }
+
+      @media (min-width: $screen-lg) {
+        left: 1123px;
+      }
+
+      @media (min-width: $screen-xl) {
+        top: -500px;
+        left: 1123px;
+      }
+    }
+
+    &-tablet {
+      position: absolute;
+      width: 230px;
+      top: 12px;
+      left: 370px;
+      z-index: 3;
+      opacity: 0;
+
+      @media (min-width: $screen-xsm) {
+        width: 420px;
+        top: -67px;
+        left: 441px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 925px;
+        top: -174px;
+        left: 480px;
+      }
+
+      @media (min-width: $screen-md) {
+        top: -448px;
+        left: 704px;
+      }
+
+      @media (min-width: $screen-lg) {
+        left: 758px;
+      }
+
+      @media (min-width: $screen-xl) {
+        top: -445px;
+        left: 758px;
+      }
+    }
+
+    &-desktop {
+      position: absolute;
+      width: 320px;
+      top: 54px;
+      left: 290px;
+      opacity: 0;
+      z-index: 2;
+
+      @media (min-width: $screen-xsm) {
+        width: 580px;
+        top: 9px;
+        left: 300px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 1285px;
+        top: -10px;
+        left: 163px;
+      }
+
+      @media (min-width: $screen-md) {
+        top: -283px;
+        left: 387px;
+      }
+
+      @media (min-width: $screen-lg) {
+        left: 440px;
+      }
+
+      @media (min-width: $screen-xl) {
+        top: -280px;
+        left: 442px;
+      }
+    }
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+
+    @media (min-width: $screen-sm) {
+      gap: 18px;
+    }
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    width: 246px;
+    padding-left: 0 !important;
+    color: black;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+
+    @media (min-width: $screen-xsm) {
+      width: 100%;
+      font-size: 20px;
+      gap: 20px;
+    }
+
+    @media (min-width: $screen-sm) {
+      font-size: 30px;
+      gap: 30px;
+    }
+  }
+}

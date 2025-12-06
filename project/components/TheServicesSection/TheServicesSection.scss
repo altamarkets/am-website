@@ -1,0 +1,370 @@
+@import "@/styles/colors";
+@import "@/styles/variables";
+@import "@/styles/_breakpoints.scss";
+
+
+.the-services-section {
+  position: relative;
+  height: 805px;
+  background-color: white;
+
+  @media (min-width: $screen-xsm) {
+    height: 1288px;
+  }
+
+  @media (min-width: $screen-sm) {
+    height: 1850px;
+  }
+
+  @media (min-width: $screen-md) {
+    height: 820px;
+  }
+
+  @media (min-width: $screen-lg) {
+    height: 1000px;
+  }
+
+  &__lines {
+    position: absolute;
+    z-index: -1;
+    top: -15px;
+    right: 15px;
+    width: 100%;
+
+    @media (min-width: $screen-xsm) {
+      top: -25px;
+      right: 32px;
+    }
+
+    @media (min-width: $screen-sm) {
+      top: -34px;
+      right: 40px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 992px;
+      justify-content: flex-start;
+      top: 0;
+      right: -30px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 1320px;
+    }
+
+    &-bg {
+      width: 320px;
+
+      @media (min-width: $screen-xsm) {
+        width: 576px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 768px;
+      }
+
+      @media (min-width: $screen-md) {
+        display: none;
+      }
+    }
+
+    &-left {
+      display: none;
+      position: absolute;
+      left: 0;
+
+      @media (min-width: $screen-md) {
+        display: flex;
+        width: 812px;
+        height: 388px;
+      }
+
+      @media (min-width: $screen-lg) {
+        width: 1046px;
+        height: 538px;
+      }
+    }
+
+
+    .nuxt-icon--fill, .nuxt-icon--fill * {
+      fill: revert-layer;
+    }
+
+    &-right{
+      display: none;
+      position: absolute;
+      right: 0;
+
+      @media (min-width: $screen-md) {
+        display: flex;
+        height: 466px;
+        width: 255px;
+      }
+
+      @media (min-width: $screen-lg) {
+        height: 645px;
+        width: 358px;
+        right: -17px;
+      }
+    }
+  }
+
+  &__container {
+    padding: 100px 15px 0;
+
+    @media (min-width: $screen-xsm) {
+      padding: 100px 33px 0;
+    }
+
+    @media (min-width: $screen-sm) {
+      padding: 200px 40px 0;
+    }
+
+    @media (min-width: $screen-md) {
+      padding: 200px 30px 0;
+    }
+
+    @media (min-width: $screen-lg) {
+      padding: 200px 15px 0;
+    }
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24.17px;
+    align-self: stretch;
+
+    @media (min-width: $screen-xsm) {
+      gap: 35.5px;
+    }
+
+    @media (min-width: $screen-sm) {
+      gap: 44px;
+    }
+
+    @media (min-width: $screen-md) {
+      gap: 30px;
+    }
+  }
+
+  &__title {
+    width: 290px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    @media (min-width: $screen-xsm) {
+      width: 510px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 688px;
+      gap: 10px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 932px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 1290px;
+    }
+
+    &-text {
+      color: $mainColor;
+    }
+
+    &-description {
+      width: 290px;
+      color: $mainColor;
+      font-family: Inter, sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 140%;
+
+      @media (min-width: $screen-xsm) {
+        width: 100%;
+        font-size: 20px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 480px;
+        font-size: 30px;
+      }
+
+      @media (min-width: $screen-md) {
+        width: 100%;
+      }
+    }
+  }
+
+  &__schema {
+    width: 290px;
+    z-index: 1;
+    position: relative;
+
+    @media (min-width: $screen-xsm) {
+      width: 510px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 688px;
+    }
+
+    @media (min-width: $screen-md) {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 465px;
+      width: 932px;
+      overflow: hidden;
+    }
+
+    @media (min-width: $screen-lg) {
+      height: 648px;
+      width: 1290px;
+    }
+
+    &-gradient{
+      display: none;
+
+      @media (min-width: $screen-md) {
+        display: block;
+        position: absolute;
+        width: 992px;
+        height: 100%;
+        background-image: linear-gradient(90deg, #FFF 40%, rgba(255, 255, 255, 0) 100%), linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #FFF 40%);
+        background-position: left, right;
+        background-size: 82px, 82px;
+      }
+
+      @media (min-width: $screen-lg) {
+        background-image: linear-gradient(90deg, #FFF 10%, rgba(255, 255, 255, 0) 100%), linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #FFF 90%);
+        width: 1290px;
+      }
+    }
+  }
+
+  &__providers {
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+
+    @media (min-width: $screen-xsm) {
+      gap: 20px;
+    }
+
+    @media (min-width: $screen-sm) {
+      gap: 30px;
+    }
+
+    @media (min-width: $screen-md) {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      height: 100%;
+      gap: 20px;
+      margin-top: 12px;
+    }
+  }
+
+  &__box {
+    display: flex;
+    justify-content: center;
+    margin-top: 49.41px;
+
+    @media (min-width: $screen-xsm) {
+      margin-top: 89.27px;
+    }
+
+    @media (min-width: $screen-sm) {
+      margin-top: 119.03px;
+    }
+
+    @media (min-width: $screen-md) {
+      margin-top: -48px;
+      margin-left: 119.78px;
+    }
+
+    @media (min-width: $screen-lg) {
+      margin-top: -68px;
+      margin-left: 166.15px;
+    }
+
+    &-img {
+      width: 120.834px;
+      height: 112.083px;
+
+      @media (min-width: $screen-xsm) {
+        width: 217.502px;
+        height: 201.75px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 290.001px;
+        height: 269px;
+      }
+
+      @media (min-width: $screen-md) {
+        width: 248.608px;
+        height: 230.602px;
+      }
+
+      @media (min-width: $screen-lg) {
+        width: 344.841px;
+        height: 319.866px;
+      }
+    }
+  }
+
+  &__phone {
+    display: flex;
+    justify-content: center;
+    margin-top: 49.58px;
+
+    @media (min-width: $screen-xsm) {
+      margin-top: 89.25px;
+    }
+
+    @media (min-width: $screen-sm) {
+      margin-top: 119.21px;
+    }
+
+    @media (min-width: $screen-md) {
+      margin-top: -48px;
+      margin-left: 96.97px;
+    }
+
+    @media (min-width: $screen-lg) {
+      margin-left: 134.5px;
+    }
+
+    &-img {
+      width: 106.667px;
+      height: 215.592px;
+
+      @media (min-width: $screen-xsm) {
+        width: 192px;
+        height: 388.066px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 256px;
+        height: 517.421px;
+      }
+
+      @media (min-width: $screen-md) {
+        width: 158.301px;
+        height: 319.955px;
+      }
+
+      @media (min-width: $screen-lg) {
+        width: 219.579px;
+        height: 443.809px;
+      }
+    }
+  }
+}

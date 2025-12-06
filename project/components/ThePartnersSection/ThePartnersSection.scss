@@ -1,0 +1,48 @@
+@import "@/styles/_breakpoints.scss";
+
+.the-partners-section {
+  padding-top: 100px;
+
+  @media (min-width: $screen-xsm) {
+    padding-top: 200px;
+  }
+
+  &__container {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 290px;
+
+    @media (min-width: $screen-xsm) {
+      width: 510px;
+      gap: 30px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 690px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 932px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 1290px;
+    }
+  }
+
+  &__logos {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+
+    @media (min-width: $screen-xsm) {
+      gap: 30px;
+    }
+  }
+}

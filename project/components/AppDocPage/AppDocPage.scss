@@ -1,0 +1,42 @@
+@import "@/styles/variables";
+@import "@/styles/colors";
+@import "@/styles/_breakpoints.scss";
+
+.documentation-component {
+  background-color: white;
+
+  &__container {
+    padding: 30px 30px 80px;
+    display: flex;
+    justify-content: center;
+
+    @media (min-width: $screen-lg) {
+      padding: 30px 15px 80px;
+    }
+  }
+
+  &__wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 290px;
+
+    @media (min-width: $screen-xsm) {
+      width: 510px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 688px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 932px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 1290px;
+    }
+  }
+}
+
+

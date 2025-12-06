@@ -1,0 +1,53 @@
+@import "@/styles/_breakpoints.scss";
+@import "@/styles/colors.scss";
+
+.the-menu {
+  &__body {
+    padding: 25px 30px 28px 30px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 0.50);
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+    width: 217px;
+    border-radius: 8px;
+
+    @media (min-width: $screen-xsm) {
+      padding: 25px 30px;
+    }
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  &__link {
+    &--bold {
+      font-weight: 700 !important;
+      line-height: 22.4px;
+    }
+  }
+
+  .menu__link {
+    color: #15162D !important;
+  }
+
+  &__sociales {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+  }
+
+  &__icon {
+    width: 18px;
+    height: 18px;
+
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

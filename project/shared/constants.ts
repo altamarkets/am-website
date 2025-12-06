@@ -1,0 +1,15 @@
+export const validationRequiredMsg = "This field is required";
+export const validationMaxCharactersMsg = "Text limit exceeded";
+export const validationEmailMsg = "Email is incorrect. Example: primer@example.fas";
+export const validationUrlMsg = "Url is incorrect";
+export const validationNumbersMsg = "Only numeric string is allowed";
+export const validationDateMsg = "The date is incorrect";
+export const validationPhoneRusMsg = "Phone number is incorrect";
+export const validationPhoneMsg = "Phone number is incorrect";
+export const validationPassMsgSpaces = "The password must not contain spaces";
+export const validationNotCyrillicMsg = "Cyrillic is not allowed";
+export const validationPassMsgLength = "The password must be at least 8 characters long";
+export const validationPassMsgCapitalLetters = "The password must contain capital letters";
+export const validationPassMsgLowerCase = "Password must contain lowercase letters";
+export const validationPassMsgSpecSymbols = "The password must contain numbers and special characters";
+export const validationSpecialCharacters = "The message must not contain special characters";

@@ -1,0 +1,191 @@
+@import "@/styles/colors";
+@import "@/styles/variables";
+@import "@/styles/_breakpoints.scss";
+
+.the-reasons-section {
+  position: relative;
+  background: $mainColor;
+  padding: 100px 0;
+  width: 100%;
+  min-height: 1683px;
+
+  @media (min-width: $screen-xsm) {
+    padding: 180px 0 400px;
+  }
+
+  @media (min-width: $screen-sm) {
+    padding: 180px 0 365px;
+  }
+
+  @media (min-width: $screen-md) {
+    min-height: 1458px;
+  }
+
+  @media (min-width: $screen-xxl) {
+    padding: 180px 887px 140px;
+  }
+
+  &__wrapper {
+    @media (min-width: $screen-xxl) {
+      display: flex;
+      justify-content: center;
+      margin: 0 auto;
+    }
+  }
+
+  &__img {
+    display: none;
+
+    @media (min-width: $screen-xsm) {
+      display: block;
+      position: absolute;
+      bottom: 140px;
+      width: 100%;
+      height: 412px;
+      z-index: 0;
+      mix-blend-mode: lighten;
+      object-fit: cover;
+    }
+
+    @media (min-width: $screen-sm) {
+      height: 486px;
+    }
+
+    @media (min-width: $screen-md) {
+      object-fit: contain;
+      bottom: 135px;
+    }
+
+    @media (min-width: $screen-lg) {
+      object-fit: cover;
+      height: 1080px;
+      bottom: 135px;
+    }
+
+    @media (min-width: $screen-xl) {
+      object-fit: none;
+    }
+
+    @media (min-width: $screen-xxl) {
+      width: auto;
+    }
+  }
+
+
+  &__container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 60px;
+    align-self: stretch;
+    z-index: 2;
+    width: 290px;
+
+    @media (min-width: $screen-xsm) {
+      width: 510px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 690px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 932px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 1290px;
+    }
+  }
+
+
+  &__description {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  &__title {
+    color: white;
+    width: 183px;
+
+    @media (min-width: $screen-xsm) {
+      width: 313px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 370px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 100%;
+    }
+  }
+
+  &__text {
+    margin-bottom: 0 !important;
+    color: white;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 170%;
+    align-self: stretch;
+
+    @media (min-width: $screen-xsm) {
+      font-size: 20px;
+      width: 382px;
+    }
+
+    @media (min-width: $screen-sm) {
+      font-size: 30px;
+      width: 625px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 820px;
+    }
+  }
+
+  &__list {
+    display: grid;
+    gap: 40px;
+
+    @media (min-width: $screen-xsm) {
+      gap: 50px;
+      width: 398px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 460px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 100%;
+      grid-template-columns: repeat(2, 410px);
+      column-gap: 40px;
+      row-gap: 50px;
+    }
+
+    @media (min-width: $screen-lg) {
+      column-gap: 140px;
+      grid-template-columns: 410px minmax(410px, 580px);
+    }
+  }
+
+  &__logos {
+    margin-top: 10px;
+    display: flex;
+    width: 250px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+}

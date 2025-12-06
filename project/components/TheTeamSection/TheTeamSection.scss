@@ -1,0 +1,44 @@
+@import "@/styles/_breakpoints.scss";
+
+.the-team-section {
+  padding: 100px 0 0 0;
+
+  @media (min-width: $screen-xsm) {
+    padding: 200px 0 0 0;
+  }
+
+  &__container{
+    display: flex;
+    justify-content: center;
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 290px;
+
+    @media (min-width: $screen-xsm) {
+      width: 510px;
+    }
+
+    @media (min-width: $screen-sm) {
+      width: 690px;
+    }
+
+    @media (min-width: $screen-md) {
+      width: 932px;
+    }
+
+    @media (min-width: $screen-lg) {
+      width: 1290px;
+    }
+  }
+
+  &__cards {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    column-gap: 30px;
+  }
+}

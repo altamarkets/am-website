@@ -1,0 +1,450 @@
+@import "@/styles/variables";
+@import "@/styles/colors";
+@import "@/styles/breakpoints";
+
+.the-form-section {
+  position: relative;
+  overflow: hidden;
+
+  @media (min-width: $screen-xsm) {
+    height: 1110px;
+  }
+
+  @media (min-width: $screen-lg) {
+    height: 1500px;
+  }
+
+  &__bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 25%;
+
+    @media (min-width: $screen-xsm) {
+      height: 1399px;
+      object-position: 68% -289px;
+    }
+
+    @media (min-width: $screen-md) {
+      object-position: 85% -289px;
+    }
+
+    @media (min-width: $screen-lg) {
+      height: 100%;
+      object-position: 52%;
+    }
+
+    @media (min-width: $screen-xl) {
+      object-position: 100%;
+    }
+
+    @media (min-width: $screen-xxl) {
+      display: none;
+    }
+  }
+
+  &__bg4K {
+    display: none;
+
+    @media (min-width: $screen-xxl) {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      position: absolute;
+      object-fit: cover;
+    }
+  }
+
+  &__container {
+    padding: 50px 15px;
+    z-index: 1;
+
+    @media (min-width: $screen-xsm) {
+      padding: 160.86px 33px 191.14px;
+    }
+
+    @media (min-width: $screen-sm) {
+      padding: 122.86px 39px 153.14px;
+    }
+
+    @media (min-width: $screen-md) {
+      padding: 121.91px 31px 154.09px;
+    }
+
+    @media (min-width: $screen-lg) {
+      padding: 527.15px 16px 147.37px;
+    }
+  }
+
+  &__container-form {
+    display: flex;
+    max-width: 290px;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0;
+    border: 2px solid white;
+    background: rgba(255, 255, 255, 0.01);
+    backdrop-filter: blur(20px);
+    gap: 37px;
+
+    @media (min-width: $screen-xsm) {
+      max-width: 500px;
+      padding: 50px 40px;
+      align-items: start;
+    }
+
+    @media (min-width: $screen-sm) {
+      max-width: 690px;
+      padding: 63px 68px 70px;
+    }
+
+    @media (min-width: $screen-md) {
+      margin-left: 87.6px;
+    }
+
+    @media (min-width: $screen-lg) {
+      margin-left: auto;
+      margin-right: 0;
+    }
+  }
+
+  &__title {
+    color: white;
+    font-family: $fontFamily, sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+
+    @media (min-width: $screen-xsm) {
+      font-size: 30px;
+    }
+
+    @media (min-width: $screen-sm) {
+      font-size: 50px;
+    }
+  }
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    font-family: Inter, sans-serif;
+    width: 252px;
+
+    @media (min-width: $screen-xsm) {
+      width: 100%;
+    }
+
+    @media (min-width: $screen-sm) {
+      align-items: start;
+    }
+
+    &-fields {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+
+      @media (min-width: $screen-xsm) {
+        display: grid;
+        grid-template-columns: repeat(2, 200px);
+        gap: 20px;
+      }
+
+      @media (min-width: $screen-sm) {
+        grid-template-columns: repeat(2, 252px);
+      }
+    }
+
+    &-texts {
+      width: 100%;
+      margin-top: -20px;
+    }
+
+    &-text {
+      @media (min-width: $screen-sm) {
+        width: 524px;
+      }
+    }
+
+    &-name,
+    &-last-name,
+    &-email,
+    &-phone,
+    &-text,
+    &-checkbox,
+    &-best-execution-checkbox,
+    &-custom-execution-checkbox,
+    &-btn {
+      display: none !important;
+    }
+
+    &-name {
+      &:nth-child(3) {
+        display: flex !important;
+      }
+    }
+
+    &-last-name {
+      &:nth-child(2) {
+        display: flex !important;
+      }
+    }
+
+    &-email {
+      &:nth-child(1) {
+        display: flex !important;
+      }
+    }
+
+    &-phone {
+      &:nth-child(1) {
+        display: flex !important;
+      }
+    }
+
+    &-text {
+      &:nth-child(2) {
+        display: flex !important;
+      }
+    }
+
+    &-checkbox {
+      &:nth-child(1) {
+        display: flex !important;
+      }
+    }
+
+    &-best-execution-checkbox {
+      &:nth-child(1) {
+        display: flex !important;
+      }
+    }
+
+    &-custom-execution-checkbox {
+      &:nth-child(3) {
+        display: flex !important;
+      }
+    }
+
+    &-btn {
+      &:nth-child(3) {
+        display: flex !important;
+      }
+    }
+
+    &-btn-block {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+
+      @media (min-width: $screen-xsm) {
+        flex-direction: row;
+        align-items: center;
+      }
+    }
+
+    &-privacy {
+      color: white;
+      text-align: center;
+      font-family: Inter, sans-serif;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 160%;
+
+      @media (min-width: $screen-xsm) {
+        text-align: left;
+        font-size: 14px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 386px;
+        font-size: 20px;
+      }
+    }
+  }
+
+  &__service {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    width: 100%;
+
+    &-title {
+      color: white;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 160%;
+
+      &--disabled {
+        color: $light-grey;
+      }
+
+      @media (min-width: $screen-xsm) {
+        font-size: 20px;
+      }
+    }
+
+    &-checkbox-group {
+      display: flex;
+      flex-direction: column;
+
+      @media (min-width: $screen-xsm) {
+        display: flex;
+        flex-direction: row;
+        gap: 49px;
+        width: 420px;
+      }
+    }
+  }
+
+  &--form {
+    &__field {
+      flex-direction: column;
+      width: 252px;
+
+      @media (min-width: $screen-xsm) {
+        width: 200px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 252px;
+      }
+
+      .v-input__control .v-field {
+        &:hover {
+          .v-field__outline {
+            color: $sky_blue !important;
+          }
+        }
+
+        .v-field__field .v-label {
+          opacity: 1;
+        }
+
+        &--error:not(.v-field--disabled) {
+          .v-label {
+            color: #ff5252;
+          }
+
+          .v-field__outline {
+            color: #ff5252 !important;
+          }
+        }
+
+        &__outline {
+          color: white;
+          --v-field-border-width: 2px;
+          --v-field-border-opacity: 1;
+          border-radius: 0;
+        }
+      }
+
+      .v-input__details {
+        padding-inline: 0 !important;
+
+        .v-messages {
+          color: #ff5252 !important;
+        }
+
+        .v-counter {
+          color: white;
+        }
+      }
+    }
+
+    &__checkbox {
+      .v-selection-control__wrapper {
+        width: 20px;
+        height: 20px;
+        margin-right: 10px;
+
+        &:hover {
+          background-color: $dark_blue;
+          border-radius: 5px;
+        }
+      }
+
+      .v-selection-control__input > .v-icon {
+        opacity: 1;
+      }
+
+      .v-selection-control__input::before, .v-ripple__container {
+        display: none;
+      }
+
+      .v-label {
+        color: white;
+        opacity: 1;
+        font-size: 18px;
+
+        @media (min-width: $screen-xsm) {
+          font-size: 20px;
+          white-space: nowrap !important;
+        }
+      }
+    }
+
+    &__textarea {
+      margin-top: 14px;
+      flex-direction: column;
+      width: 252px;
+
+      @media (min-width: $screen-xsm) {
+        width: 416px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 524px;
+      }
+
+      .v-input__control {
+        height: 116px;
+      }
+
+      .v-input__control .v-field {
+        &:hover {
+          .v-field__outline {
+            color: $sky_blue !important;
+          }
+        }
+      }
+
+      .v-field__outline {
+        color: white;
+        --v-field-border-width: 2px;
+        --v-field-border-opacity: 1;
+        border-radius: 0 !important;
+      }
+
+      .v-field__field .v-label {
+        opacity: 1;
+      }
+
+      .v-input__details {
+        padding-inline: 0 !important;
+
+        .v-counter {
+          color: white;
+        }
+      }
+    }
+
+    &__btn {
+      width: 252px;
+      padding: 20px 30px;
+      height: 64px !important;
+
+      @media (min-width: $screen-xsm) {
+        width: 111px;
+      }
+    }
+  }
+}
+
+
+

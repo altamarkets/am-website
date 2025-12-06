@@ -1,0 +1,103 @@
+@import "@/styles/_breakpoints.scss";
+
+.app-card-employer {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  flex: 0 1 calc((130 / 290) * 100%);
+
+  @media (min-width: $screen-xsm) {
+    flex: 0 1 calc((240 / 510) * 100%);
+  }
+  @media (min-width: $screen-sm) {
+    flex: 0 1 calc((210 / 690) * 100%);
+  }
+  @media (min-width: $screen-md) {
+    flex: 0 1 calc((290 / 930) * 100%);
+  }
+  @media (min-width: $screen-lg) {
+    flex: 0 1 calc((300 / 1290) * 100%);
+  }
+  @media (min-width: $screen-xxl) {
+    flex: 0 1 calc((300 / 1290) * 100%);
+  }
+
+  &__image {
+    width: 130px;
+    height: 200px;
+    object-fit: cover;
+
+    @media (min-width: $screen-xsm) {
+      width: 240px;
+      height: 320px;
+    }
+    @media (min-width: $screen-sm) {
+      width: 210px;
+      height: 280px;
+    }
+    @media (min-width: $screen-md) {
+      width: 290px;
+      height: 410px;
+    }
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    @media (min-width: $screen-xsm) {
+      gap: 15px;
+    }
+  }
+
+  &__name {
+    color: #000;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+
+    @media (min-width: $screen-xsm) {
+      font-size: 20px;
+      line-height: 160%;
+
+      br {
+        display: none;
+      }
+    }
+  }
+
+  &__text {
+    color: #000;
+    font-family: Inter, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+
+    @media (min-width: $screen-xsm) {
+      line-height: 140%;
+      font-size: 20px;
+    }
+  }
+
+  &__sociales {
+    display: flex;
+    gap: 5px;
+  }
+
+  &__sociale {
+    color: black;
+    align-self: flex-start;
+    cursor: pointer;
+    width: 22px;
+    height: 22px;
+
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

@@ -1,0 +1,40 @@
+.lines-animation {
+  &__animation1 {
+    &_started {
+      .squiggle_anim {
+        animation: draw 2s linear forwards;
+      }
+
+      @keyframes draw {
+        from {
+          stroke-dashoffset: 822;
+        }
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+    }
+  }
+
+  &__animation2 {
+    &_started {
+      .squiggle_anim2 {
+        animation: draw2 2s linear forwards 1.5s;
+      }
+
+      @keyframes draw2 {
+        from {
+          stroke-dashoffset: 500;
+        }
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+    }
+  }
+}
+
+
+
+
+

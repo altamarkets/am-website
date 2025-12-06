@@ -1,0 +1,95 @@
+<template>
+  <svg class="the-services-section__lines-right" width="262" height="646" viewBox="0 0 262 646" fill="none"
+       xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_1694_1889)">
+      <path class="squiggle3 squiggle_anim3"
+            d="M298.631 559.614L224.125 602.436L186.783 580.936L261.348 538.293L298.631 559.614Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M260.772 495.114L186.206 537.876L148.864 516.436L223.489 473.793L260.772 495.114Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3" d="M148.925 559.317L186.207 580.698V622.654L148.925 601.214V559.317Z"
+            stroke="#3246FF" stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M223.37 473.436L223.43 644.721L186.028 623.221L186.088 452.114L223.37 473.436Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M223.37 473.436L148.865 516.257L111.522 494.757L186.088 452.114L223.37 473.436Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M297.936 602.078L223.43 644.84L186.028 623.34L260.653 580.757L297.936 602.078Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M224.146 86.5303L149.7 129.233L112.298 107.733L186.863 65.209L224.146 86.5303Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M187.501 22.4464L112.995 65.2678L75.6533 43.7677L150.219 1.125L187.501 22.4464Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M336.661 23.3868L262.215 66.2082L223.873 43.7677L298.379 1.125L336.661 23.3868Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M112.973 150.643L112.981 236.748L75.7204 258.286L75.7123 172.18L112.973 150.643Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3" d="M186.531 150.911L223.814 172.411V43.7091L186.531 22.3877V150.911Z"
+            stroke="#3246FF" stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M112.807 410.991L150.09 432.372L75.5248 475.313L38.2422 453.753L112.807 410.991Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3" d="M38.2422 453.753L75.5248 475.313V518.253L38.2422 496.693V453.753Z"
+            stroke="#3246FF" stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3" d="M75.6533 85.8721L112.936 107.372V192.955L75.6533 171.574V85.8721Z"
+            stroke="#3246FF" stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M37.3418 279.784L74.5648 301.165L149.19 258.225L111.907 236.903L37.3418 279.784Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M112.934 107.343L38.4877 150.164L1.14551 128.664L75.7107 86.0215L112.934 107.343Z" stroke="#15162D"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M186.801 64.9102L112.295 107.672L74.8936 86.172L149.518 43.5889L186.801 64.9102Z" stroke="#15162D"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3" d="M37.3422 408.25L37.2826 279.667L0 258.107V386.691L37.3422 408.25Z"
+            stroke="#15162D" stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M74.5057 258.106L37.2826 279.666L0 258.106L37.2826 236.606L74.5057 258.106Z" stroke="#15162D"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M150.216 323.141L75.6508 366.2L38.3682 344.641L112.933 301.641L150.216 323.141Z" stroke="#3246FF"
+            stroke-width="1.68255"/>
+      <path class="squiggle3 squiggle_anim3" d="M261.176 194.672V258.334L224.148 237.546V172.369L261.176 194.672Z"
+            stroke="#15162D" stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M301.202 127.711L150.091 215.243L113.063 193.806L264.174 106.274L301.202 127.711Z" stroke="#15162D"
+            stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3" d="M266.176 305.807V369.685L224.148 346.898V279.771L266.176 305.807Z"
+            stroke="#15162D" stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M150.09 215.245V258.768L265.173 191.674V255.335L150.09 322.43V367.902L265.173 300.808V364.686L150.09 431.781V471.623L302.2 383.091V126.713L150.09 215.245Z"
+            stroke="#15162D" stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3" d="M113.063 237.115L150.091 258.552V215.245L113.063 193.808V237.115Z"
+            stroke="#15162D" stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3" d="M150.091 322.429L113.063 301.642V347.114L150.091 367.902V322.429Z"
+            stroke="#15162D" stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M224.146 237.547L261.174 258.334L150.091 322.429L113.063 301.641L224.146 237.547Z" stroke="#15162D"
+            stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3" d="M150.091 431.779L113.063 410.991V450.834L150.091 471.621V431.779Z"
+            stroke="#15162D" stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M261.174 367.684L150.091 431.779L113.063 410.991L224.146 346.896L261.174 367.684Z" stroke="#15162D"
+            stroke-width="1.68255" stroke-miterlimit="10"/>
+      <path class="squiggle3 squiggle_anim3"
+            d="M74.5658 365.249L74.5063 258.106L37.2832 236.606V343.928L74.5658 365.249Z" stroke="#15162D"
+            stroke-width="1.68255"/>
+    </g>
+    <defs>
+      <clipPath id="clip0_1694_1889">
+        <rect width="262" height="646" fill="white"/>
+      </clipPath>
+    </defs>
+  </svg>
+</template>
+
+<script async lang="ts" src="./CubesSVG.ts"></script>
+<style lang="scss" src="./CubesSVG.scss"></style>

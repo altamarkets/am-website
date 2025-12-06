@@ -1,0 +1,31 @@
+@import "@/styles/breakpoints";
+@import "@/styles/colors";
+
+.app-btn {
+  color: white !important;
+  background: rgba(26, 38, 53, 0.20) !important;
+  backdrop-filter: blur(15px) !important;
+  text-align: center;
+  border: 2px solid white !important;
+  border-radius: 0 !important;
+  font-family: Inter, sans-serif;
+  font-size: 18px !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  line-height: 160% !important;
+  text-transform: unset !important;
+  box-sizing: border-box;
+  letter-spacing: 0 !important;
+
+  @media (min-width: $screen-sm) {
+    font-size: 20px ;
+  }
+
+  //&:hover{
+  //  border-color: $sky_blue !important;
+  //}
+  //
+  //&__content {
+  //  letter-spacing: 0 !important;
+  //}
+}

@@ -1,0 +1,20 @@
+# FROM ghcr.io/easybuilders/ubuntu-22.04:2024-05-15-9093678212.111
+FROM ubuntu:22.04
+
+RUN apt-get update \
+    && apt-get install curl -y \
+    && apt-get install -y locales \
+    && locale-gen en_US.UTF-8
+
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US:en
+ENV LC_ALL en_US.UTF-8
+
+RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash \
+    && apt-get install -y nodejs
+
+WORKDIR /project
+
+COPY ./project .
+
+CMD ["tail", "-f", "/dev/null"]

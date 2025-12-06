@@ -1,0 +1,14 @@
+.card-logo{
+  display: flex;
+  width: 120px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.05);
+
+  &__img{
+    width: 77px;
+    height: 31.706px;
+    object-fit: contain;
+  }
+}
