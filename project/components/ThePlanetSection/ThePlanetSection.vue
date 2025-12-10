@@ -1,27 +1,126 @@
 <template>
   <section class="the-planet-section" id="the-planet-section">
-    <div class="the-planet-section__bg-img">
-      <NuxtImg loading="lazy" format="webp" :src="earth" :placeholder="earth_placeholder" class="the-planet-section__high" alt=""/>
-
-      <div class="the-planet-section__mid">
-        <NuxtImg loading="lazy" format="webp" :src="planet" :placeholder="planet_placeholder" class="the-planet-section__mid-planet"
-                 alt=""/>
-        <img class="the-planet-section__mid-animation" :src="animation" alt=""/>
-      </div>
-    </div>
-
     <div class="the-planet-section__container">
       <div class="the-planet-section__content">
         <h1 class="general-title the-planet-section__title">
-          Digital Assets Spot & Derivatives Prime Broker
+          Institutional-Grade Digital Asset Buy & Sell Services
         </h1>
 
         <p class="the-planet-section__text">
-          Access aggregated digital assets liquidity through bespoke prime
-          brokerage services
+          Access consolidated cryptocurrency liquidity through secure, compliant
+          and efficient execution.
         </p>
+      </div>
 
-        <AppBtn :href="servicesSection" class="the-planet-section__btn">Find out more</AppBtn>
+      <div class="the-planet-section__container-form" id="the-form-section__form">
+        <h1 class="the-form-section__title">{{ title }}</h1>
+
+        <v-form
+          class="the-form-section__form"
+          ref="form"
+          :disabled="submitLoading"
+        >
+          <div class="the-form-section__form-fields">
+            <div class="the-form-section__form-names">
+              <v-text-field
+                class="the-form-section--form__field the-form-section__form-name"
+                label="First name"
+                :counter="100"
+                color="white"
+                :persistent-counter="true"
+                variant="outlined"
+              ></v-text-field>
+            </div>
+
+            <div class="the-form-section__form-last-names">
+              <v-text-field
+                class="the-form-section--form__field the-form-section__form-last-name"
+                label="Last name"
+                :counter="100"
+                :persistent-counter="true"
+                variant="outlined"
+              ></v-text-field>
+            </div>
+
+            <div class="the-form-section__form-emails">
+              <v-text-field
+                class="the-form-section--form__field the-form-section__form-email"
+                label="E-mail"
+                :counter="100"
+                :persistent-counter="true"
+                variant="outlined"
+              ></v-text-field>
+            </div>
+
+            <div class="the-form-section__form-phones">
+              <v-text-field
+                class="the-form-section--form__field the-form-section__form-phone"
+                label="Phone"
+                variant="outlined"
+              ></v-text-field>
+            </div>
+          </div>
+
+          <div class="the-form-section__service">
+            <div
+              class="the-form-section__service-title"
+              :class="{
+                'the-form-section__service-title--disabled': submitLoading,
+              }"
+            >
+              Service:
+            </div>
+            <div class="the-form-section__service-checkbox-group">
+              <div class="the-form-section__form-best-execution-checkboxes">
+                <v-checkbox
+                  class="the-form-section--form__checkbox the-form-section__form-best-execution-checkbox"
+                  label="Best execution"
+                  true-icon="mdi mdi-checkbox-outline"
+                  type="checkbox"
+                ></v-checkbox>
+              </div>
+
+              <div class="the-form-section__form-custom-execution-checkboxes">
+                <v-checkbox
+                  class="the-form-section--form__checkbox the-form-section__form-custom-execution-checkbox"
+                  label="Custom execution"
+                  type="checkbox"
+                ></v-checkbox>
+              </div>
+            </div>
+          </div>
+
+          <div class="the-form-section__form-texts">
+            <v-textarea
+              class="the-form-section--form__textarea the-form-section__form-text"
+              label="Message"
+              :counter="100"
+              variant="outlined"
+              :persistent-counter="true"
+              :no-resize="true"
+            ></v-textarea>
+          </div>
+
+          <div class="the-form-section__form-btn-block">
+            <div class="the-form-section__form-btns">
+              <AppBtn
+                class="the-form-section--form__btn the-form-section__form-btn"
+              >
+                Send
+              </AppBtn>
+            </div>
+
+            <div
+              class="the-form-section__form-privacy"
+              :class="{
+                'the-form-section__service-title--disabled': submitLoading,
+              }"
+            >
+              By clicking the «Send» button, you agree with the Privacy and
+              Cookie Policy
+            </div>
+          </div>
+        </v-form>
       </div>
     </div>
   </section>

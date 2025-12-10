@@ -66,15 +66,17 @@
   }
 
   &__logo {
-    width: 216px;
-    height: 32px;
+    &-img {
+      width: 250px;
+    }
 
     svg {
       width: 100%;
       height: 100%;
     }
 
-    svg, svg * {
+    svg,
+    svg * {
       fill: revert-layer;
     }
   }

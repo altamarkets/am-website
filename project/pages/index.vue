@@ -1,13 +1,13 @@
 <template>
   <div>
     <ThePlanetSection/>
-    <TheServicesSection/>
-    <TheExecutionSection/>
-    <TheReasonsSection/>
-    <TheTeamSection/>
-    <ThePartnersSection/>
-    <TheMediaSection/>
-    <TheFormSection/>
+    <!-- <TheServicesSection/> -->
+    <!-- <TheExecutionSection/> -->
+    <!-- <TheReasonsSection/> -->
+    <!-- <TheTeamSection/> -->
+    <!-- <ThePartnersSection/> -->
+    <!-- <TheMediaSection/> -->
+    <!-- <TheFormSection/> -->
   </div>
 </template>
 

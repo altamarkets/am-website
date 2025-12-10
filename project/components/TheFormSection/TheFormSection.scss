@@ -111,10 +111,11 @@
 
   &__title {
     color: white;
-    font-family: $fontFamily, sans-serif;
+    // font-family: $fontFamily, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 22px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 800;
     line-height: 140%;
 
     @media (min-width: $screen-xsm) {
@@ -178,7 +179,7 @@
     &-best-execution-checkbox,
     &-custom-execution-checkbox,
     &-btn {
-      display: none !important;
+      // display: none !important;
     }
 
     &-name {

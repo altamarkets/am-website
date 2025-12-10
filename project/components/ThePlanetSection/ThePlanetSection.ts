@@ -19,6 +19,8 @@ export default {
       earth,
       earth_placeholder,
       animation,
+      title: "Get in touch",
+      submitLoading: false,
     };
   },
   watch: {},

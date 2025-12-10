@@ -2,6 +2,7 @@
   <v-app id="app">
     <div class="wrapper">
       <TheHeader
+        :scrolled="isScrolled"
         :class="[{ scrolled: isScrolled }]"
         :theme="isIndexPage ? 'original' : 'default'"
       />

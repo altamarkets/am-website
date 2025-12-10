@@ -13,6 +13,7 @@
     0% {
       opacity: 0;
     }
+
     100% {
       opacity: 1;
     }
@@ -22,6 +23,7 @@
     0% {
       opacity: 0;
     }
+
     100% {
       opacity: 1;
     }
@@ -30,12 +32,15 @@
   @media (min-width: $screen-xsm) {
     padding: 28px 0 20px 0;
   }
+
   @media (min-width: $screen-sm) {
     padding: 32px 0 24px 0;
   }
+
   @media (min-width: $screen-md) {
     padding: 44px 0;
   }
+
   @media (min-width: $screen-lg) {
     padding: 45px 0;
   }
@@ -70,8 +75,9 @@
   }
 
   &__logo {
-    width: 139px;
-    height: 20px;
+    &-img {
+      width: 250px;
+    }
 
     @media (min-width: $screen-sm) {
       width: 208px;
@@ -155,7 +161,7 @@
       color: #fff !important;
     }
 
-    &--bold{
+    &--bold {
       font-weight: 700 !important;
     }
   }

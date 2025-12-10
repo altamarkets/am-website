@@ -1,23 +1,41 @@
 <template>
-  <header class="the-header scroll-section" :class="{'the-header--default': isThemeDefault}">
+  <header
+    class="the-header scroll-section"
+    :class="{ 'the-header--default': isThemeDefault }"
+  >
     <div class="the-header__container">
       <div class="the-header__wrapper">
-        <NuxtLink to="/#the-planet-section" class="the-header__logo">
-          <Logo class="the-header__logo_img"/>
-        </NuxtLink>
+        <NuxtImg
+          v-if="!scrolled"
+          class="the-header__logo-img"
+          format="webp"
+          loading="lazy"
+          :src="logo"
+          alt=""
+        />
+
+        <NuxtImg
+          v-if="!!scrolled"
+          class="the-header__logo-img"
+          format="webp"
+          loading="lazy"
+          :src="logoBlack"
+          alt=""
+        />
 
         <div class="the-header__menu menu">
           <button>
-            <Burger class="menu__icon" v-show="!menu"/>
-            <Close class="menu__icon" v-show="menu"/>
-            <TheMenu @update:model-value="switchIcon"/>
+            <Burger class="menu__icon" v-show="!menu" />
+            <Close class="menu__icon" v-show="menu" />
+            <TheMenu @update:model-value="switchIcon" />
           </button>
 
           <nav class="menu__body">
             <ul class="menu__list">
-              <li class="menu__item"
-                  v-for="(link, index) in links"
-                  :key="index"
+              <li
+                class="menu__item"
+                v-for="(link, index) in links"
+                :key="index"
               >
                 <NuxtLink :to="link.path" class="menu__link">
                   {{ link.item }}
