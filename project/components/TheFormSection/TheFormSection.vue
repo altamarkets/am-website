@@ -1,13 +1,29 @@
 <template>
   <section class="the-form-section">
-    <NuxtImg format="webp" loading="lazy" class="the-form-section__bg" :src="formBg" alt="formBg"/>
-    <NuxtImg format="webp" loading="lazy" class="the-form-section__bg4K" :src="formBg4K" alt="formBg" />
+    <NuxtImg
+      format="webp"
+      loading="lazy"
+      class="the-form-section__bg"
+      :src="formBg"
+      alt="formBg"
+    />
+    <NuxtImg
+      format="webp"
+      loading="lazy"
+      class="the-form-section__bg4K"
+      :src="formBg4K"
+      alt="formBg"
+    />
 
     <div class="the-form-section__container">
       <div class="the-form-section__container-form" id="the-form-section__form">
         <h1 class="the-form-section__title">{{ title }}</h1>
 
-        <v-form class="the-form-section__form" ref="form" :disabled="submitLoading">
+        <v-form
+          class="the-form-section__form"
+          ref="form"
+          :disabled="submitLoading"
+        >
           <div class="the-form-section__form-fields">
             <div class="the-form-section__form-names">
               <v-text-field
@@ -28,7 +44,7 @@
                 :counter="nameMaxLength"
                 color="white"
                 :rules="nameRules"
-                :persistent-counter=true
+                :persistent-counter="true"
                 variant="outlined"
                 v-model="name3"
               ></v-text-field>
@@ -46,7 +62,7 @@
                 label="Last name"
                 :counter="lastNameMaxLength"
                 :rules="lastNameRules"
-                :persistent-counter=true
+                :persistent-counter="true"
                 variant="outlined"
                 v-model="lastName2"
               ></v-text-field>
@@ -64,7 +80,7 @@
                 label="E-mail"
                 :counter="emailMaxLength"
                 :rules="emailRules"
-                :persistent-counter=true
+                :persistent-counter="true"
                 variant="outlined"
                 v-model="email1"
               ></v-text-field>
@@ -102,8 +118,13 @@
           </div>
 
           <div class="the-form-section__service">
-            <div class="the-form-section__service-title"
-                 :class="{ 'the-form-section__service-title--disabled': submitLoading }">Service:
+            <div
+              class="the-form-section__service-title"
+              :class="{
+                'the-form-section__service-title--disabled': submitLoading,
+              }"
+            >
+              Service:
             </div>
             <div class="the-form-section__service-checkbox-group">
               <div class="the-form-section__form-best-execution-checkboxes">
@@ -163,8 +184,8 @@
               label="Message"
               :counter="textMaxLength"
               variant="outlined"
-              :persistent-counter=true
-              :no-resize=true
+              :persistent-counter="true"
+              :no-resize="true"
               v-model="text2"
             ></v-textarea>
             <v-textarea
@@ -176,10 +197,14 @@
 
           <div class="the-form-section__form-btn-block">
             <div class="the-form-section__form-btns">
-              <AppBtn class="the-form-section--form__btn the-form-section__form-btn">
+              <AppBtn
+                class="the-form-section--form__btn the-form-section__form-btn"
+              >
                 Send
               </AppBtn>
-              <AppBtn class="the-form-section--form__btn the-form-section__form-btn">
+              <AppBtn
+                class="the-form-section--form__btn the-form-section__form-btn"
+              >
                 Send
               </AppBtn>
               <AppBtn
@@ -192,12 +217,14 @@
               </AppBtn>
             </div>
 
-            <div class="the-form-section__form-privacy"
-                 :class="{ 'the-form-section__service-title--disabled': submitLoading }">By clicking the «Send»
-              button,
-              you agree with the Privacy and
-              Cookie
-              Policy
+            <div
+              class="the-form-section__form-privacy"
+              :class="{
+                'the-form-section__service-title--disabled': submitLoading,
+              }"
+            >
+              By clicking the «Send» button, you agree with the Privacy and
+              Cookie Policy
             </div>
           </div>
         </v-form>

@@ -22,7 +22,7 @@ export const submitForm = async (data = {}) => {
   };
 
   try {
-    const response = await api.post('intake/pidigitalswiss', payload);
+    const response = await api.post('form/submit', payload);
     return response;
   } catch (e) {
     return Object.assign({}, e).response;

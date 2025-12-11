@@ -25,10 +25,12 @@
               <v-text-field
                 class="the-form-section--form__field the-form-section__form-name"
                 label="First name"
-                :counter="100"
+                :counter="nameMaxLength"
                 color="white"
-                :persistent-counter="true"
+                :rules="nameRules"
+                :persistent-counter=true
                 variant="outlined"
+                v-model="name3"
               ></v-text-field>
             </div>
 
@@ -36,9 +38,11 @@
               <v-text-field
                 class="the-form-section--form__field the-form-section__form-last-name"
                 label="Last name"
-                :counter="100"
-                :persistent-counter="true"
+                :counter="lastNameMaxLength"
+                :rules="lastNameRules"
+                :persistent-counter=true
                 variant="outlined"
+                v-model="lastName2"
               ></v-text-field>
             </div>
 
@@ -46,9 +50,11 @@
               <v-text-field
                 class="the-form-section--form__field the-form-section__form-email"
                 label="E-mail"
-                :counter="100"
-                :persistent-counter="true"
+                :counter="emailMaxLength"
+                :rules="emailRules"
+                :persistent-counter=true
                 variant="outlined"
+                v-model="email1"
               ></v-text-field>
             </div>
 
@@ -56,7 +62,9 @@
               <v-text-field
                 class="the-form-section--form__field the-form-section__form-phone"
                 label="Phone"
+                :rules="phoneRules"
                 variant="outlined"
+                v-model="phone1"
               ></v-text-field>
             </div>
           </div>
@@ -77,6 +85,7 @@
                   label="Best execution"
                   true-icon="mdi mdi-checkbox-outline"
                   type="checkbox"
+                  v-model="bestExecutionCheckbox3"
                 ></v-checkbox>
               </div>
 
@@ -85,6 +94,8 @@
                   class="the-form-section--form__checkbox the-form-section__form-custom-execution-checkbox"
                   label="Custom execution"
                   type="checkbox"
+                  true-icon="mdi mdi-checkbox-outline"
+                  v-model="customExecutionCheckbox1"
                 ></v-checkbox>
               </div>
             </div>
@@ -94,10 +105,11 @@
             <v-textarea
               class="the-form-section--form__textarea the-form-section__form-text"
               label="Message"
-              :counter="100"
+              :counter="textMaxLength"
               variant="outlined"
-              :persistent-counter="true"
-              :no-resize="true"
+              :persistent-counter=true
+              :no-resize=true
+              v-model="text2"
             ></v-textarea>
           </div>
 
@@ -105,6 +117,9 @@
             <div class="the-form-section__form-btns">
               <AppBtn
                 class="the-form-section--form__btn the-form-section__form-btn"
+                :loading="submitLoading"
+                @mouseover="mouseover"
+                @click="submit"
               >
                 Send
               </AppBtn>
