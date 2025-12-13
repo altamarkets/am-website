@@ -46,13 +46,13 @@ export default {
   setup() {
     if (!!process.server) {
       useHead({
-        title: 'Advanced Cryptocurrency Brokerage Services | PI Digital',
+        title: 'Advanced Cryptocurrency Brokerage Services | Altamarkets',
 
         meta: [
           {
             hid: 'description',
             name: "description",
-            content: "PI Digital provides innovative and first-class cryptocurrency brokerage services. Discover and utilise our digital wealth management expertise."
+            content: "Altamarkets provides innovative and first-class cryptocurrency brokerage services. Discover and utilise our digital wealth management expertise."
           },
         ],
 

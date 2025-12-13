@@ -12,11 +12,11 @@
 
             <div class="the-footer__details">
               <div class="the-footer__contact">
-                <div>{{ phone }}</div>
+                <!-- <div>{{ phone }}</div> -->
                 <div>{{ email }}</div>
               </div>
 
-              <div class="the-footer__license" v-html="license"></div>
+              <!-- <div class="the-footer__license" v-html="license"></div> -->
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
               </li>
             </ul>
             <div class="the-footer__links-social">
-              <a :href="twitter" rel="nofollow" target="_blank">
+              <!-- <a :href="twitter" rel="nofollow" target="_blank">
                 <Twitter />
               </a>
               <a :href="linkedin" rel="nofollow" target="_blank">
@@ -52,7 +52,7 @@
               </a>
               <a :href="medium" rel="nofollow" target="_blank">
                 <Medium />
-              </a>
+              </a> -->
             </div>
           </div>
         </div>

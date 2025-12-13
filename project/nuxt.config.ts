@@ -15,20 +15,20 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'format-detection', content: 'telephone=no' },
         { hid: 'og:type', property: 'og:type', content: 'website' },
-        { hid: 'og:title', property: "og:title", content: "Advanced Cryptocurrency Brokerage Services | PI Digital" },
+        { hid: 'og:title', property: "og:title", content: "Advanced Cryptocurrency Brokerage Services | Altamarkets" },
         { hid: 'og:image', property: "og:image", content: process.env.FRONT_URL + "/img/preview.png" },
         {
           hid: 'og:description',
           property: "og:description",
-          content: "PI Digital provides innovative and first-class cryptocurrency brokerage services. Discover and utilise our digital wealth management expertise."
+          content: "Altamarkets provides innovative and first-class cryptocurrency brokerage services. Discover and utilise our digital wealth management expertise."
         },
         { hid: 'og:url', property: "og:url", content: process.env.FRONT_URL },
       ],
 
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: process.env.FRONT_URL + "/img/favicon.ico" },
-        { rel: "apple-touch-icon", type: "image/png", href: process.env.FRONT_URL + "/img/apple-touch-icon.png" },
-        { rel: "mask-icon", type: "image/svg+xml", color: "#000000", href: process.env.FRONT_URL + "/img/mask-icon.svg" },
+        // { rel: 'icon', type: 'image/x-icon', href: process.env.FRONT_URL + "/img/favicon.ico" },
+        // { rel: "apple-touch-icon", type: "image/png", href: process.env.FRONT_URL + "/img/apple-touch-icon.png" },
+        // { rel: "mask-icon", type: "image/svg+xml", color: "#000000", href: process.env.FRONT_URL + "/img/mask-icon.svg" },
       ],
 
       script: [
@@ -37,7 +37,7 @@ export default defineNuxtConfig({
           innerHTML: JSON.stringify({
             "@type": "Organization",
             '@context': 'https://schema.org/',
-            "name": "PI Digital",
+            "name": "Altamarkets",
             "url": process.env.FRONT_URL,
             "logo": '/img/svg/logo-footer.svg',
             "address": {

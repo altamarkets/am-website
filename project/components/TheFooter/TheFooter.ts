@@ -17,9 +17,10 @@ export default {
   data() {
     return {
       logo,
-      address: "PI Digital AG <br/>Dammstrasse 16 <br/>6300 Zug <br/>Switzerland",
+      // address: "Altamarkets AG <br/>Dammstrasse 16 <br/>6300 Zug <br/>Switzerland",
+      address: "Altamarkets AG <br/>Switzerland",
       phone: "+41 44 797 51 40",
-      email: "info@pidigital.swiss",
+      email: "info@altamarkets.ch",
       license: "License: <br/>VQF SRO member no. 101020",
       conditions: "/conditions",
       use: "/use",

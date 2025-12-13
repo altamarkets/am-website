@@ -5,7 +5,7 @@
       I.PRIVACY POLICY
     </div>
     <div class="privacy__text">
-      The privacy practice of collecting and processing of personal data provided by the Clients to PI Digital AG, legal
+      The privacy practice of collecting and processing of personal data provided by the Clients to Altamarkets AG, legal
       entity duly incorporated in Swiss Confederation with registered number CHE-155.913.212 is described hereby. The
       provisions of this Privacy Policy are subject to Regulation (EU) 2016/679 of the European Parliament and of the
       Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and
@@ -25,7 +25,7 @@
       1. PERSONAL DATA WE COLLECT AND OBJECTIVE
     </div>
     <div class="privacy__text">
-      1.1. When applying as a customer of PI Digital AG we collect and further process the following categories of data:
+      1.1. When applying as a customer of Altamarkets AG we collect and further process the following categories of data:
     </div>
     <div class="privacy__text privacy__text__subtext">
       (a) Information requested during your application as a customer, for example your name, date of birth,
@@ -87,12 +87,12 @@
       2.1. Your personal data may be received and processed:
     </div>
     <div class="privacy__text privacy__text__subtext">
-      (a) by PI Digital AG within our inner systems of processing, which complies with technical and organizational
+      (a) by Altamarkets AG within our inner systems of processing, which complies with technical and organizational
       measures in a manner that meets applicable requirements of Regulation and security standards; and/or
     </div>
     <div class="privacy__text privacy__text__subtext">
       (b) by 3rd party service providers and processors who access and use the data only to the extent required to
-      perform the obligations subcontracted to them by PI Digital AG (hereinafter – ‘subprocessors’).
+      perform the obligations subcontracted to them by Altamarkets AG (hereinafter – ‘subprocessors’).
     </div>
     <div class="privacy__text">
       2.2. Those subprocessors perform tasks on our behalf and are contractually obligated not to disclose or use
@@ -102,7 +102,7 @@
       under contractual closes.
     </div>
     <div class="privacy__text">
-      2.3. Client specifically agrees that PI Digital AG may to its own discretion engage subprocessors, that comply
+      2.3. Client specifically agrees that Altamarkets AG may to its own discretion engage subprocessors, that comply
       with
       technical and organizational measures in a manner that meet applicable requirements of Regulation and security
       standards implied under this Privacy Policy.
@@ -121,21 +121,21 @@
       3. INCIDENTS NOTIFICATION
     </div>
     <div class="privacy__text">
-      3.1. If PI Digital AG becomes aware of any breach of our security leading to the accidental or unlawful
+      3.1. If Altamarkets AG becomes aware of any breach of our security leading to the accidental or unlawful
       destruction,
       loss, alteration or unauthorized disclosure of, or access to (excluding unsuccessful attempts or activities)
       personal data of Clients on systems managed or otherwise controlled by us we will notify you promptly and without
       undue delay and in compliance to the procedure prescribed under respective Regulation.
     </div>
     <div class="privacy__text">
-      3.2. The notification will be sent to your e-mail address at the discretion of PI Digital AG or by other direct
-      communication channel available to PI Digital AG and allowed by Client (for example, by phone). It is sole
+      3.2. The notification will be sent to your e-mail address at the discretion of Altamarkets AG or by other direct
+      communication channel available to Altamarkets AG and allowed by Client (for example, by phone). It is sole
       responsibility of the Client to provide us with the e-mail address and ensure that this e-mail address is valid
       and
       active.
     </div>
     <div class="privacy__text">
-      3.3. None of Data Incidents notification from PI Digital AG may not be and will not be construed as an
+      3.3. None of Data Incidents notification from Altamarkets AG may not be and will not be construed as an
       acknowledgment of any fault or liability with respect to data incident by us.
     </div>
     <div class="privacy__text">
@@ -148,7 +148,7 @@
       access our services.
     </div>
     <div class="privacy__text">
-      4.2. We are not obliged to protect your personal data that you choose to store or transfer outside PI Digital AG
+      4.2. We are not obliged to protect your personal data that you choose to store or transfer outside Altamarkets AG
       and
       our subprocessors’ systems.
     </div>
@@ -178,7 +178,7 @@
     <div class="privacy__text">
       6.1. We also use cookies and similar technologies for collecting technical information, which contains your unique
       identifiers. We automatically receive the web address of the site that you came from and the IP address of the
-      computer or device that you are using to access the PI Digital AG website. This information helps us to understand
+      computer or device that you are using to access the Altamarkets AG website. This information helps us to understand
       your preferences, improve website navigation, allows to develop and improve our services, and better manage our
       servers.
     </div>
@@ -205,7 +205,7 @@
       8. CONSENT
     </div>
     <div class="privacy__text">
-      By using PI Digital AG website and/or applying to become a customer of PI Digital AG, you consent to the
+      By using Altamarkets AG website and/or applying to become a customer of Altamarkets AG, you consent to the
       collection,
       processing and receipt of your personal data, as described in this Privacy Policy.
     </div>
@@ -332,7 +332,7 @@ export default {
   setup() {
     if (!!process.server) {
       useHead({
-        title: "Privacy & Cookie Policy | PI Digital",
+        title: "Privacy & Cookie Policy | Altamarkets",
 
         meta: [
           {
@@ -359,7 +359,8 @@ export default {
 .privacy {
   &__title {
     margin-bottom: 20px;
-    font-family: $fontFamily, sans-serif;
+    // font-family: $fontFamily, sans-serif;
+    font-family: Inter, sans-serif;
     color: $mainColor;
     font-size: 22px;
     font-weight: 400;

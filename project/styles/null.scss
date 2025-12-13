@@ -27,7 +27,8 @@ body {
 body {
 	color: $mainColor;
 	line-height: 1;
-	font-family: $fontFamily, sans-serif;
+	// font-family: $fontFamily, sans-serif;
+	font-family: Inter, sans-serif;
 	font-size: $fontSize;
 	//text-rendering: optimizeLegibility;
 	-ms-text-size-adjust: 100%;
@@ -39,7 +40,8 @@ body {
 input,
 button,
 textarea {
-	font-family: $fontFamily, sans-serif;
+	// font-family: $fontFamily, sans-serif;
+	font-family: Inter, sans-serif;
 	font-size: inherit;
 }
 textarea{

@@ -6,7 +6,7 @@
     <div class="the-header__container">
       <div class="the-header__wrapper">
         <NuxtImg
-          v-if="!scrolled"
+          v-if="!scrolled && theme === 'original'"
           class="the-header__logo-img"
           format="webp"
           loading="lazy"
@@ -15,7 +15,7 @@
         />
 
         <NuxtImg
-          v-if="!!scrolled"
+          v-if="!!scrolled || theme === 'default'"
           class="the-header__logo-img"
           format="webp"
           loading="lazy"
