@@ -13,8 +13,7 @@
       subject to the terms and conditions stated below.
     </div>
     <div class="conditions__text">
-      Altamarkets AG is a company incorporated according to Swiss law with legal seat in Baar, Switzerland (“PI
-      Digital”). Altamarkets is subject to the rules set out by the Swiss self-regulation organisation Verein zur
+      Altamarkets AG is a company incorporated according to Swiss law with legal seat in Baar, Switzerland (“Altamarkets”). Altamarkets is subject to the rules set out by the Swiss self-regulation organisation Verein zur
       Qualitätssicherung von Finanzdienstleistungen - “VQF” (in English: The Financial Services Standards Association”).
       The following Terms and Conditions – Altamarkets Execution (the “Terms”) sets forth the rights and obligations
       between a Client and Altamarkets for currency Execution Services.
@@ -37,8 +36,7 @@
       other cryptocurrency, over the counter (the “Execution Services”).
     </div>
     <div class="conditions__text">
-      1.2. A Client must read, understand and accept the Terms before using the Execution Services provided by PI
-      Digital.
+      1.2. A Client must read, understand and accept the Terms before using the Execution Services provided by Altamarkets.
     </div>
     <div class="conditions__text">
       1.3. The Terms are considered as read, understood and accepted by the Client, when the Client decides to use the
@@ -63,8 +61,7 @@
       onboarding process to a Client.
     </div>
     <div class="conditions__text">
-      2.4. Altamarkets reserves the right to unilaterally accept or reject any prospective Client in accordance with PI
-      Digital’s internal policies and procedures. Altamarkets is not obliged to provide any reasons for its decision.
+      2.4. Altamarkets reserves the right to unilaterally accept or reject any prospective Client in accordance with Altamarkets internal policies and procedures. Altamarkets is not obliged to provide any reasons for its decision.
     </div>
     <div class="conditions__text">
       2.5. From an accepted Client, Altamarkets has a right to request additional documents and/or information and a
@@ -183,8 +180,7 @@
     </div>
     <div class="conditions__text">
       5.5. Altamarkets offers to buy and sell cryptocurrencies that are listed on major cryptocurrency exchanges and it
-      remains at the sole discretion of Altamarkets to decide which cryptocurrencies can be bought or sold through PI
-      Digital.
+      remains at the sole discretion of Altamarkets to decide which cryptocurrencies can be bought or sold through Altamarkets.
     </div>
     <div class="conditions__text">
       5.6. A Client accepts that Altamarkets cannot guarantee that cryptocurrencies bought through Altamarkets can also be
@@ -214,19 +210,16 @@
     </div>
     <div class="conditions__text conditions__text__subtext">
       a) For selling: When selling cryptocurrency for other cryptocurrency or fiat currency through Altamarkets, a Client
-      must notify Altamarkets once Client’s assets have been sent to a cryptocurrency address (wallet) provided by PI
-      Digital. Altamarkets cannot provide a Client with quotes before the arrival of cryptocurrency on the address
+      must notify Altamarkets once Client’s assets have been sent to a cryptocurrency address (wallet) provided by Altamarkets. Altamarkets cannot provide a Client with quotes before the arrival of cryptocurrency on the address
       provided by Altamarkets. Arrival of Bitcoin (BTC) shall mean that a minimum of 6 blocks have confirmed the
       transaction. Arrival of Ethereum (ETH) and ERC20-tokens shall mean that a minimum of 30 blocks have confirmed the
       transaction.
     </div>
     <div class="conditions__text conditions__text__subtext">
       b) For buying: When buying cryptocurrency for fiat currency through Altamarkets a Client must notify Altamarkets
-      once the fiat currency has been sent to the bank or payment service provider (PSP or EMI) account provided by PI
-      Digital. Altamarkets cannot provide a Client with quotes before the arrival of fiat currency on the bank or payment
+      once the fiat currency has been sent to the bank or payment service provider (PSP or EMI) account provided by Altamarkets. Altamarkets cannot provide a Client with quotes before the arrival of fiat currency on the bank or payment
       service provider (PSP or EMI) account provided by Altamarkets. Altamarkets cannot provide a Client with quotes
-      before arrival of fiat currency on the bank or payment service provider (PSP or EMI) account provided by PI
-      Digital.
+      before arrival of fiat currency on the bank or payment service provider (PSP or EMI) account provided by Altamarkets.
     </div>
     <div class="conditions__text">
       7.2. Under no circumstances can Altamarkets become liable for any losses and/or missed profits due to execution
@@ -315,8 +308,7 @@
     </div>
     <div class="conditions__text">
       9.6. A Client is aware that Altamarkets is not a depository institution and can therefor only handle fiat or
-      cryptocurrencies in connection with an actual buy or sell transaction or settlement. This may require that PI
-      Digital, after notifying a Client, may convert fiat currency into crypto assets or send the fiat currency back to
+      cryptocurrencies in connection with an actual buy or sell transaction or settlement. This may require that Altamarkets, after notifying a Client, may convert fiat currency into crypto assets or send the fiat currency back to
       Client’s account if a Client does not provide Altamarkets with further instructions.
     </div>
 
@@ -405,8 +397,7 @@
       Majeure circumstances.
     </div>
     <div class="conditions__text">
-      13.3. A Force Majeure situation does not terminate the Terms but immediately suspends the obligations of PI
-      Digital for all duration of the Force Majeure situation.
+      13.3. A Force Majeure situation does not terminate the Terms but immediately suspends the obligations of Altamarkets for all duration of the Force Majeure situation.
     </div>
     <div class="conditions__text">
       13.4. Altamarkets shall swiftly inform a Client in case it invokes a Force Majeure situation. This notice shall
@@ -461,12 +452,9 @@
       16.1. A Client shall indemnify, defend, and hold harmless Altamarkets, its officers, affiliates, directors, equity
       holders, agents and employees with respect to any claim, demand, cause of action, debt, judgment or liability,
       including reasonable attorneys’ fees, to the extent that it is based upon a claim that: (i) arises out of or in
-      relation to their use of the Execution Services of Altamarkets and is not caused by the negligence or conduct of PI
-      Digital; (ii) if true, would constitute a breach of any of their representations, warranties or agreements
+      relation to their use of the Execution Services of Altamarkets and is not caused by the negligence or conduct of Altamarkets; (ii) if true, would constitute a breach of any of their representations, warranties or agreements
       hereunder; or (iii) arises out of their gross negligence, wilful misconduct or abandonment. Altamarkets may, at its
-      discretion and at its own expense, assist in the defence of any indemnified claim through counsel selected by PI
-      Digital. Any settlement intended to bind Altamarkets shall not be valid or binding on Altamarkets without PI
-      Digital’s prior written consent.
+      discretion and at its own expense, assist in the defence of any indemnified claim through counsel selected by Altamarkets. Any settlement intended to bind Altamarkets shall not be valid or binding on Altamarkets without Altamarkets prior written consent.
     </div>
 
     <div class="conditions__description">

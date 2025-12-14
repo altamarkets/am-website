@@ -112,8 +112,7 @@
       processing of personal data is done or will be done in accordance with the applicable laws.
     </div>
     <div class="privacy__text">
-      2.5. Subprocessors remain fully liable for all obligations subcontracted to, and all acts and omissions of, PI
-      Digital AG is not responsible if the information is disclosed as a result of a breach or security lapse at any
+      2.5. Subprocessors remain fully liable for all obligations subcontracted to, and all acts and omissions of, Altamarkets AG is not responsible if the information is disclosed as a result of a breach or security lapse at any
       such
       subprocessors, or for such subprocessors' non-compliance with the foregoing requirements.
     </div>

@@ -18,8 +18,7 @@
       from Altamarkets website, and in particular the Altamarkets AG customer registration documents, you acknowledge and
       agree that Altamarkets AG makes such documents available to you at your request and discretion only. If you are
       residing outside of Switzerland, you should take appropriate advice from a suitably qualified professional adviser
-      in the country in which you reside or do business in order to find out if any restrictions are applicable. PI
-      Digital AG shall not be responsible for any loss arising from any investment based on a perceived recommendation.
+      in the country in which you reside or do business in order to find out if any restrictions are applicable. Altamarkets AG shall not be responsible for any loss arising from any investment based on a perceived recommendation.
     </div>
 
     <div class="disclaimer__description">
@@ -29,8 +28,7 @@
       Not all products or services will be available to all investors: they are intended only to customers in those
       countries and regions where applicable laws and regulations so permit. Cryptocurrency (virtual currency) trading
       may be subject to restrictions in different countries; residents of those countries and/or certain categories of
-      investors may be not eligible for certain products or services referred to in this marketing material and on PI
-      Digital’s AG website.
+      investors may be not eligible for certain products or services referred to in this marketing material and on Altamarkets AG website.
     </div>
     <div class="disclaimer__text">
       The information contained herein is not intended for distribution to, or use by, any person or entity in any
@@ -114,8 +112,7 @@
     <div class="disclaimer__text">
       Altamarkets AG shall not be liable for (i) any loss which the investor may suffer as a consequence of the trading
       and transactions executed by Altamarkets AG; (ii) any loss suffered or incurred by the investor as a result of or
-      in connection with Altamarkets’s AG provision of brokerage service; (iii) any loss due to actions taken by PI
-      Digital AG according to its rights; (iv) any consequential or other indirect loss (including loss of profit and
+      in connection with Altamarkets’s AG provision of brokerage service; (iii) any loss due to actions taken by Altamarkets AG according to its rights; (iv) any consequential or other indirect loss (including loss of profit and
       loss of goodwill) suffered or incurred by the investor whether arising from Altamarkets’s AG negligence or
       otherwise; or (v) any loss exceeding Altamarkets’s AG revenue on the account(s) or cryptocurrency wallet(s) of the
       client for any 12 month period prior to the client's raising of a claim against Altamarkets AG.
