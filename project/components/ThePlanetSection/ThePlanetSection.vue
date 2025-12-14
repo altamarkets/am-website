@@ -3,12 +3,11 @@
     <div class="the-planet-section__container">
       <div class="the-planet-section__content">
         <h1 class="general-title the-planet-section__title">
-          Institutional-Grade Digital Asset Buy & Sell Services
+          Institutional-Grade Digital Asset Markets Access
         </h1>
 
         <p class="the-planet-section__text">
-          Access consolidated cryptocurrency liquidity through secure, compliant
-          and efficient execution.
+          Access digital asset market through secure, compliant and efficient provider
         </p>
       </div>
 
