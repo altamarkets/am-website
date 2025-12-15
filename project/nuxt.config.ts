@@ -15,7 +15,7 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'format-detection', content: 'telephone=no' },
         { hid: 'og:type', property: 'og:type', content: 'website' },
-        { hid: 'og:title', property: "og:title", content: "Institutional-Grade Digital Asset Markets Access | Altamarkets" },
+        { hid: 'og:title', property: "og:title", content: "Institutional-Grade Digital Asset Markets Access | Alta Markets" },
         { hid: 'og:image', property: "og:image", content: process.env.FRONT_URL + "/img/preview.png" },
         {
           hid: 'og:description',
@@ -37,7 +37,7 @@ export default defineNuxtConfig({
           innerHTML: JSON.stringify({
             "@type": "Organization",
             '@context': 'https://schema.org/',
-            "name": "Altamarkets",
+            "name": "Alta Markets",
             "url": process.env.FRONT_URL,
             "logo": '/img/svg/logo-footer.svg',
             // "address": {

@@ -23,7 +23,7 @@
           alt=""
         />
 
-        <div class="the-header__menu menu">
+        <!-- <div class="the-header__menu menu">
           <button>
             <Burger class="menu__icon" v-show="!menu" />
             <Close class="menu__icon" v-show="menu" />
@@ -41,12 +41,12 @@
                   {{ link.item }}
                 </NuxtLink>
               </li>
-              <!-- <li>
+              <li>
                 <a :href="login" target="_blank" class="menu__link menu__link--bold">Log In</a>
-              </li> -->
+              </li>
             </ul>
           </nav>
-        </div>
+        </div> -->
       </div>
     </div>
   </header>

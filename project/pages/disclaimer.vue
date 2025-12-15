@@ -6,19 +6,19 @@
       No Offer and/or Recommendation:
     </div>
     <div class="disclaimer__text">
-      Nothing contained in this marketing material and Altamarkets AG website <a href="/">(www.pidigital.swiss)</a>
+      Nothing contained in this marketing material and Alta Markets AG website <a href="/">(www.pidigital.swiss)</a>
       constitutes a
       solicitation or offer, or recommendation, to acquire or dispose of any investment or to engage in any other
       transaction. Information contained in this marketing material (and any of the data and documents that may be
-      downloaded from Altamarkets AG website), unless otherwise specifically stated, shall not be construed as an
+      downloaded from Alta Markets AG website), unless otherwise specifically stated, shall not be construed as an
       offering or solicitation of any products or services, business, financial, investment, hedging, legal, regulatory,
-      tax or accounting advice by Altamarkets AG, a recommendation or trading idea, or any other type of encouragement to
+      tax or accounting advice by Alta Markets AG, a recommendation or trading idea, or any other type of encouragement to
       act, invest or divest in a particular manner. This marketing material, any information, data and documents it
       contains or refer to, are provided for general information purposes only. By downloading any data and/or documents
-      from Altamarkets website, and in particular the Altamarkets AG customer registration documents, you acknowledge and
-      agree that Altamarkets AG makes such documents available to you at your request and discretion only. If you are
+      from Alta Markets website, and in particular the Alta Markets AG customer registration documents, you acknowledge and
+      agree that Alta Markets AG makes such documents available to you at your request and discretion only. If you are
       residing outside of Switzerland, you should take appropriate advice from a suitably qualified professional adviser
-      in the country in which you reside or do business in order to find out if any restrictions are applicable. Altamarkets AG shall not be responsible for any loss arising from any investment based on a perceived recommendation.
+      in the country in which you reside or do business in order to find out if any restrictions are applicable. Alta Markets AG shall not be responsible for any loss arising from any investment based on a perceived recommendation.
     </div>
 
     <div class="disclaimer__description">
@@ -28,14 +28,14 @@
       Not all products or services will be available to all investors: they are intended only to customers in those
       countries and regions where applicable laws and regulations so permit. Cryptocurrency (virtual currency) trading
       may be subject to restrictions in different countries; residents of those countries and/or certain categories of
-      investors may be not eligible for certain products or services referred to in this marketing material and on Altamarkets AG website.
+      investors may be not eligible for certain products or services referred to in this marketing material and on Alta Markets AG website.
     </div>
     <div class="disclaimer__text">
       The information contained herein is not intended for distribution to, or use by, any person or entity in any
       jurisdiction or country where such distribution or use would be contrary to law or regulation. This marketing
-      material and Altamarkets’s AG website is not intended for use by any person in any jurisdiction where the
+      material and Alta Markets’s AG website is not intended for use by any person in any jurisdiction where the
       publication or availability of our services is prohibited, by reason of that person’s nationality, residence or
-      otherwise. Persons under these restrictions must not use this marketing material and Altamarkets’s AG website.
+      otherwise. Persons under these restrictions must not use this marketing material and Alta Markets’s AG website.
     </div>
 
     <div class="disclaimer__description">
@@ -60,9 +60,9 @@
       Limitation of Liability
     </div>
     <div class="disclaimer__text">
-      If Altamarkets AG at any time and for any reason, should become liable for the loss of any person and/or entity,
+      If Alta Markets AG at any time and for any reason, should become liable for the loss of any person and/or entity,
       including without limitation, if any provision of this disclaimer is, or at any time becomes to any extent or in
-      any circumstances invalid, illegal or unenforceable for any reason, the liability of Altamarkets AG shall be
+      any circumstances invalid, illegal or unenforceable for any reason, the liability of Alta Markets AG shall be
       limited to such person’s and/or entity’s duly documented direct loss, which for the avoidance of doubt, and
       without limitation, shall not include damages for any incidental and consequential losses, damages for lost
       opportunity, damages for lost profit, statutory damages, nominal damages, punitive damages, restitution or
@@ -73,13 +73,13 @@
       Forward-Looking Statements
     </div>
     <div class="disclaimer__text">
-      Where there are statements contained in the Altamarkets website which are not historical facts, such statements
+      Where there are statements contained in the Alta Markets website which are not historical facts, such statements
       could be based on data obtained as a result of simulated past performance or future performance based on current
-      expectations, estimates, projections, opinions and beliefs of Altamarkets AG. Such statements involve known and
+      expectations, estimates, projections, opinions and beliefs of Alta Markets AG. Such statements involve known and
       unknown risks, uncertainties and other factors, and undue reliance should not be placed thereon. Additionally,
-      this marketing material and Altamarkets AG website may contain 'forward-looking statements'. Actual events or
+      this marketing material and Alta Markets AG website may contain 'forward-looking statements'. Actual events or
       results or actual performance may differ materially from those reflected or contemplated in such forward-looking
-      statements. None of any opinions that may be inferred from the contents of this marketing material and Altamarkets
+      statements. None of any opinions that may be inferred from the contents of this marketing material and Alta Markets
       AG website is intended to be relied upon as advice or recommendation of any action. They are intended merely as
       articulations of personal musings and speculations factually.
     </div>
@@ -88,11 +88,11 @@
       Brokerage Service
     </div>
     <div class="disclaimer__text">
-      Altamarkets AG makes no representation or warranty as to the actual performance of the trades executed on behalf of
-      the investor through Altamarkets AG brokerage. Altamarkets AG executes trades on behalf of the client which
+      Alta Markets AG makes no representation or warranty as to the actual performance of the trades executed on behalf of
+      the investor through Alta Markets AG brokerage. Alta Markets AG executes trades on behalf of the client which
       corresponds to the trades carried out in respect of a client order. Some strategies operate with leverage due to
       the use of margin products and a high degree of discretion and exposures towards single financial instruments and
-      asset classes, and Altamarkets AG brokerage service may therefore entail significant risks.
+      asset classes, and Alta Markets AG brokerage service may therefore entail significant risks.
     </div>
     <div class="disclaimer__text">
       All investments entail risks and may result in both profits and losses. In particular, investments in leveraged
@@ -110,12 +110,12 @@
       rate movements. You are reminded that the levels and bases of, and reliefs from, taxation can change.
     </div>
     <div class="disclaimer__text">
-      Altamarkets AG shall not be liable for (i) any loss which the investor may suffer as a consequence of the trading
-      and transactions executed by Altamarkets AG; (ii) any loss suffered or incurred by the investor as a result of or
-      in connection with Altamarkets’s AG provision of brokerage service; (iii) any loss due to actions taken by Altamarkets AG according to its rights; (iv) any consequential or other indirect loss (including loss of profit and
-      loss of goodwill) suffered or incurred by the investor whether arising from Altamarkets’s AG negligence or
-      otherwise; or (v) any loss exceeding Altamarkets’s AG revenue on the account(s) or cryptocurrency wallet(s) of the
-      client for any 12 month period prior to the client's raising of a claim against Altamarkets AG.
+      Alta Markets AG shall not be liable for (i) any loss which the investor may suffer as a consequence of the trading
+      and transactions executed by Alta Markets AG; (ii) any loss suffered or incurred by the investor as a result of or
+      in connection with Alta Markets’s AG provision of brokerage service; (iii) any loss due to actions taken by Alta Markets AG according to its rights; (iv) any consequential or other indirect loss (including loss of profit and
+      loss of goodwill) suffered or incurred by the investor whether arising from Alta Markets’s AG negligence or
+      otherwise; or (v) any loss exceeding Alta Markets’s AG revenue on the account(s) or cryptocurrency wallet(s) of the
+      client for any 12 month period prior to the client's raising of a claim against Alta Markets AG.
     </div>
     <div class="disclaimer__text">
       This material is confidential and should not be copied, distributed, published or reproduced in whole or in part
@@ -146,7 +146,7 @@ export default {
   setup() {
     if (!!process.server) {
       useHead({
-        title: "Risk Disclaimer | Altamarkets",
+        title: "Risk Disclaimer | Alta Markets",
 
         meta: [
           {

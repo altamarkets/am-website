@@ -8,8 +8,8 @@
       level of experience and risk appetite before engaging in any assets therein.
     </div>
     <div class="brochure__text">
-      Altamarkets AG informs clients about the particular risks related to specific types of high risk transactions as
-      such, but not about the specific risks relating to each individual transaction. In this respect, Altamarkets AG has
+      Alta Markets AG informs clients about the particular risks related to specific types of high risk transactions as
+      such, but not about the specific risks relating to each individual transaction. In this respect, Alta Markets AG has
       no obligation to inform clients about possible tax and legal aspects.
     </div>
     <div class="brochure__text">
@@ -32,7 +32,7 @@
     <div class="brochure__text">
       Any activity in Digital Assets and CFDs markets necessitates good market understanding, experience and personal
       commitment. Anyone who has doubts concerning the risks or costs associated hereunder must immediately request
-      further information from his/her contact persons at Altamarkets AG and/or from independent advisors. Altamarkets AG
+      further information from his/her contact persons at Alta Markets AG and/or from independent advisors. Alta Markets AG
       does not provide any tax or legal advice
     </div>
     <div class="brochure__text">
@@ -74,7 +74,7 @@
       Additional Risks:
     </div>
     <div class="brochure__text">
-      Please note the following risks in accessing or using Cryptocurrency Exchange and Altamarkets AG services:
+      Please note the following risks in accessing or using Cryptocurrency Exchange and Alta Markets AG services:
     </div>
     <div class="brochure__text">
       The risk of loss in trading Digital Assets may be substantial and losses may occur over a short period of time;
@@ -88,7 +88,7 @@
       affect the use, transfer, exchange, and value of Digital Assets;
     </div>
     <div class="brochure__text">
-      In your jurisdiction, Altamarkets AG or Cryptocurrency Exchange may not be regulated as a financial institution;
+      In your jurisdiction, Alta Markets AG or Cryptocurrency Exchange may not be regulated as a financial institution;
     </div>
     <div class="brochure__text">
       Deposits into your Digital Asset Account (i.e., wallet) and your Fiat Account may not be considered deposits under
@@ -133,7 +133,7 @@
       and appropriateness of these risks for yourself, including the suitability and appropriateness of, and investment
       strategies for, Digital Assets. You agree and understand that you access and use Cryptocurrency Exchange at your
       own risk; however, this brief statement does not disclose all of the risks associated with Digital Assets and
-      using Cryptocurrency Exchange, and Altamarkets AG services. You should, therefore, carefully consider whether such
+      using Cryptocurrency Exchange, and Alta Markets AG services. You should, therefore, carefully consider whether such
       use is suitable for you in light of your circumstances and financial resources. You should be aware that you may
       sustain a total loss of the funds in your Cryptocurrency Exchange Account (i.e., wallet), and that under certain
       market conditions, you may find it difficult or impossible to liquidate a position.
@@ -154,10 +154,10 @@
       Anyone who says you can consistently make money in Digital Assets markets is being untruthful.
     </div>
     <div class="brochure__text">
-      Any opinions, news, research, analyses, prices, or other information contained on Altamarkets AG website
+      Any opinions, news, research, analyses, prices, or other information contained on Alta Markets AG website
       <a href="/">(www.pidigital.swiss)</a> is provided as general market information, and does not constitute any
       trading advice or
-      recommendation. Altamarkets AG will not accept liability for any loss or damage, including without limitation to,
+      recommendation. Alta Markets AG will not accept liability for any loss or damage, including without limitation to,
       any loss of profit, which may arise directly or indirectly from the use of or reliance on such information.
     </div>
 
@@ -165,11 +165,11 @@
       Brokerage Service
     </div>
     <div class="brochure__text">
-      Altamarkets AG makes no representation or warranty as to the actual performance of the trades executed on behalf of
-      the investor through Altamarkets AG brokerage service. Altamarkets AG executes trades on behalf of the client which
+      Alta Markets AG makes no representation or warranty as to the actual performance of the trades executed on behalf of
+      the investor through Alta Markets AG brokerage service. Alta Markets AG executes trades on behalf of the client which
       corresponds to the trades carried out in respect of a client order. Some trades operate with leverage due to the
       use of margin products and a high degree of discretion and exposures towards single financial instruments and
-      asset classes, and Altamarkets AG brokerage service may therefore entail significant risks.
+      asset classes, and Alta Markets AG brokerage service may therefore entail significant risks.
     </div>
     <div class="brochure__text">
       All investments entail risks and may result in both profits and losses. In particular, investments in leveraged
@@ -187,39 +187,38 @@
       rate movements. You are reminded that the levels and bases of, and reliefs from, taxation can change.
     </div>
     <div class="brochure__text">
-      Altamarkets AG shall not be liable for (i) any loss which the investor may suffer as a consequence of the trading
-      and transactions executed by Altamarkets AG; (ii) any loss suffered or incurred by the investor as a result of or
-      in connection with Altamarkets’s AG provision of brokerage service; (iii) any loss due to actions taken by PI
-      Digital AG according to its rights; (iv) any consequential or other indirect loss (including loss of profit and
-      loss of goodwill) suffered or incurred by the investor whether arising from Altamarkets’s AG negligence or
-      otherwise; or (v) any loss exceeding Altamarkets’s AG revenue on the account(s) or cryptocurrency wallet(s) of the
-      client for any 12 month period prior to the client's raising of a claim against Altamarkets AG.
+      Alta Markets AG shall not be liable for (i) any loss which the investor may suffer as a consequence of the trading
+      and transactions executed by Alta Markets AG; (ii) any loss suffered or incurred by the investor as a result of or
+      in connection with Alta Markets’s AG provision of brokerage service; (iii) any loss due to actions taken by Alta Markets AG according to its rights; (iv) any consequential or other indirect loss (including loss of profit and
+      loss of goodwill) suffered or incurred by the investor whether arising from Alta Markets’s AG negligence or
+      otherwise; or (v) any loss exceeding Alta Markets’s AG revenue on the account(s) or cryptocurrency wallet(s) of the
+      client for any 12 month period prior to the client's raising of a claim against Alta Markets AG.
     </div>
 
     <div class="brochure__description">
       Sophisticated Investing
     </div>
     <div class="brochure__text">
-      You agree and understand that by using Cryptocurrency Exchange and/or Altamarkets AG and placing Orders, you have
+      You agree and understand that by using Cryptocurrency Exchange and/or Alta Markets AG and placing Orders, you have
       sufficient knowledge to place such Orders. You are responsible for making sure that any Orders placed by you are
       accurate and intentional. We may, in some cases, and at our sole discretion, require secondary electronic, verbal,
       written or other confirmation before acting if your account activity is outside of its normal range of activities.
     </div>
     <div class="brochure__text">
-      You agree and understand that the information and services provided by Cryptocurrency Exchange and/or Altamarkets
+      You agree and understand that the information and services provided by Cryptocurrency Exchange and/or Alta Markets
       AG are not provided to, and may not be used by, any individual or institution in any jurisdiction where the
       provision or use thereof would be contrary to any Applicable Laws and Regulations, the rules or regulations of any
-      governmental authority or regulatory organization, or where Cryptocurrency Exchange and/or Altamarkets AG is not
-      authorized to provide such information or services. Altamarkets AG may not be available in all jurisdictions.
+      governmental authority or regulatory organization, or where Cryptocurrency Exchange and/or Alta Markets AG is not
+      authorized to provide such information or services. Alta Markets AG may not be available in all jurisdictions.
     </div>
 
     <div class="brochure__description">
       Limitation of Liability
     </div>
     <div class="brochure__text">
-      If Altamarkets AG at any time and for any reason, should become liable for the loss of any person and/or entity,
+      If Alta Markets AG at any time and for any reason, should become liable for the loss of any person and/or entity,
       including without limitation, if any provision of this disclaimer is, or at any time becomes to any extent or in
-      any circumstances invalid, illegal or unenforceable for any reason, the liability of Altamarkets AG shall be
+      any circumstances invalid, illegal or unenforceable for any reason, the liability of Alta Markets AG shall be
       limited to such person’s and/or entity’s duly documented direct loss, which for the avoidance of doubt, and
       without limitation, shall not include damages for any incidental and consequential losses, damages for lost
       opportunity, damages for lost profit, statutory damages, nominal damages, punitive damages, restitution or
@@ -254,7 +253,7 @@ export default {
   setup() {
     if (!!process.server) {
       useHead({
-        title: "Risk Brochure | Altamarkets",
+        title: "Risk Brochure | Alta Markets",
 
         meta: [
           {

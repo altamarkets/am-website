@@ -16,7 +16,7 @@
                 <div>{{ email }}</div>
               </div>
 
-              <!-- <div class="the-footer__license" v-html="license"></div> -->
+              <div class="the-footer__license" v-html="license"></div>
             </div>
           </div>
         </div>

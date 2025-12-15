@@ -46,13 +46,13 @@ export default {
   setup() {
     if (!!process.server) {
       useHead({
-        title: 'Advanced Cryptocurrency Brokerage Services | Altamarkets',
+        title: 'Advanced Cryptocurrency Brokerage Services | Alta Markets',
 
         meta: [
           {
             hid: 'description',
             name: "description",
-            content: "Altamarkets provides innovative and first-class cryptocurrency brokerage services. Discover and utilise our digital wealth management expertise."
+            content: "Alta Markets provides innovative and first-class cryptocurrency brokerage services. Discover and utilise our digital wealth management expertise."
           },
         ],
 

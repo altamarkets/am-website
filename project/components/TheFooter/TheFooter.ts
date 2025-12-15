@@ -17,11 +17,10 @@ export default {
   data() {
     return {
       logo,
-      // address: "Altamarkets AG <br/>Dammstrasse 16 <br/>6300 Zug <br/>Switzerland",
-      address: "Altamarkets AG <br/>Switzerland",
+      address: "Alta Markets AG <br/>Dammstrasse 16 <br/>6300 Zug <br/>Switzerland",
       phone: "+41 44 797 51 40",
       email: "info@altamarkets.ch",
-      license: "License: <br/>VQF SRO member no. 101020",
+      license: "License: <br/>VQF SRO member no. 101276",
       conditions: "/conditions",
       use: "/use",
       security: "/security",

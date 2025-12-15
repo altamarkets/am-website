@@ -7,84 +7,84 @@
     <div class="conditions__text">
       These Terms and Conditions (the "Agreement") are applicable to the: (i) web pages, (ii) services, (iii) content,
       (iv) databases and (v) information (collectively referred to as the "Services") together with the agreements
-      provided by Altamarkets AG ("Altamarkets") to which you may have access by using Altamarkets’s website or any other
-      agreed channel. The content and information included in these Services are provided by Altamarkets and its third
-      party suppliers (collectively, the "Information Providers"). These Services are made available by Altamarkets
+      provided by Alta Markets AG ("Alta Markets") to which you may have access by using Alta Markets’s website or any other
+      agreed channel. The content and information included in these Services are provided by Alta Markets and its third
+      party suppliers (collectively, the "Information Providers"). These Services are made available by Alta Markets
       subject to the terms and conditions stated below.
     </div>
     <div class="conditions__text">
-      Altamarkets AG is a company incorporated according to Swiss law with legal seat in Baar, Switzerland (“Altamarkets”). Altamarkets is subject to the rules set out by the Swiss self-regulation organisation Verein zur
+      Alta Markets AG is a company incorporated according to Swiss law with legal seat in Baar, Switzerland (“Alta Markets”). Alta Markets is subject to the rules set out by the Swiss self-regulation organisation Verein zur
       Qualitätssicherung von Finanzdienstleistungen - “VQF” (in English: The Financial Services Standards Association”).
-      The following Terms and Conditions – Altamarkets Execution (the “Terms”) sets forth the rights and obligations
-      between a Client and Altamarkets for currency Execution Services.
+      The following Terms and Conditions – Alta Markets Execution (the “Terms”) sets forth the rights and obligations
+      between a Client and Alta Markets for currency Execution Services.
     </div>
     <div class="conditions__text">
       A “Client” shall mean both corporate bodies (legal entities, foundations, associations, etc.) and private
-      individuals who are using and/or are intending to use the Execution Services of Altamarkets.
+      individuals who are using and/or are intending to use the Execution Services of Alta Markets.
     </div>
     <div class="conditions__text">
-      A Client should read this document carefully. Altamarkets reserves the right to change these Terms at any time. Any
-      amended Terms will be published on Altamarkets website and a Client will be informed via e-mail.
+      A Client should read this document carefully. Alta Markets reserves the right to change these Terms at any time. Any
+      amended Terms will be published on Alta Markets website and a Client will be informed via e-mail.
     </div>
 
     <div class="conditions__description">
       1. Scope of Services
     </div>
     <div class="conditions__text">
-      1.1 These Terms apply to and between a Client and Altamarkets for Execution Services, e.g., buy or sell fiat
+      1.1 These Terms apply to and between a Client and Alta Markets for Execution Services, e.g., buy or sell fiat
       currency for cryptocurrency, buy or sell cryptocurrency for fiat currency and/or buy or sell cryptocurrency for
       other cryptocurrency, over the counter (the “Execution Services”).
     </div>
     <div class="conditions__text">
-      1.2. A Client must read, understand and accept the Terms before using the Execution Services provided by Altamarkets.
+      1.2. A Client must read, understand and accept the Terms before using the Execution Services provided by Alta Markets.
     </div>
     <div class="conditions__text">
       1.3. The Terms are considered as read, understood and accepted by the Client, when the Client decides to use the
-      Execution Services provided by Altamarkets.
+      Execution Services provided by Alta Markets.
     </div>
 
     <div class="conditions__description">
       2. Onboarding
     </div>
     <div class="conditions__text">
-      2.1. A Client must be dully onboarded before accessing Execution Services provided by Altamarkets.
+      2.1. A Client must be dully onboarded before accessing Execution Services provided by Alta Markets.
     </div>
     <div class="conditions__text">
-      2.2. The onboarding process is prescribed by Altamarkets. The onboarding can vary in scope depending on the type of
+      2.2. The onboarding process is prescribed by Alta Markets. The onboarding can vary in scope depending on the type of
       a Client and can in general be changed or amended as needed due to internal risk policies and procedures, change
-      of regulatory requirements, market conditions or other circumstances relevant for Altamarkets to perform Client due
+      of regulatory requirements, market conditions or other circumstances relevant for Alta Markets to perform Client due
       diligence and assess risks.
     </div>
     <div class="conditions__text">
-      2.3. A Client must provide Altamarkets with all documents and information requested by Altamarkets. Under no
-      circumstances shall Altamarkets be obliged to return any documents and/or information received during the
+      2.3. A Client must provide Alta Markets with all documents and information requested by Alta Markets. Under no
+      circumstances shall Alta Markets be obliged to return any documents and/or information received during the
       onboarding process to a Client.
     </div>
     <div class="conditions__text">
-      2.4. Altamarkets reserves the right to unilaterally accept or reject any prospective Client in accordance with Altamarkets internal policies and procedures. Altamarkets is not obliged to provide any reasons for its decision.
+      2.4. Alta Markets reserves the right to unilaterally accept or reject any prospective Client in accordance with Alta Markets internal policies and procedures. Alta Markets is not obliged to provide any reasons for its decision.
     </div>
     <div class="conditions__text">
-      2.5. From an accepted Client, Altamarkets has a right to request additional documents and/or information and a
+      2.5. From an accepted Client, Alta Markets has a right to request additional documents and/or information and a
       Client is obliged to provide documents and/or information requested. If a Client does not provide the additional
-      requested documents and/or information, Altamarkets has the right to not provide the Execution Services, including
+      requested documents and/or information, Alta Markets has the right to not provide the Execution Services, including
       quotes and/or not accept Client instructions, not to execute trades as instructed.
     </div>
     <div class="conditions__text">
-      2.6. If the documentation and/or information provided and approved by Altamarkets during initial onboarding process
-      changes, a Client must immediately and without undue delay provide Altamarkets with the additional documents and/or
+      2.6. If the documentation and/or information provided and approved by Alta Markets during initial onboarding process
+      changes, a Client must immediately and without undue delay provide Alta Markets with the additional documents and/or
       information.
     </div>
     <div class="conditions__text">
-      2.7. A Client will receive a notification from Altamarkets when it is either accepted, additional documents and/or
+      2.7. A Client will receive a notification from Alta Markets when it is either accepted, additional documents and/or
       information is required, or a Client has been rejected.
     </div>
     <div class="conditions__text">
-      2.8. Altamarkets has no obligation to onboard a Client within a certain timeframe. Altamarkets shall under no
+      2.8. Alta Markets has no obligation to onboard a Client within a certain timeframe. Alta Markets shall under no
       circumstances be liable for any loss and/or any unrealized gain of a Client because of unfinished onboarding
       procedure and/or rejection of a Client.
     </div>
     <div class="conditions__text">
-      2.9. A Client accepts that information which is sent to the contact details provided to Altamarkets shall be deemed
+      2.9. A Client accepts that information which is sent to the contact details provided to Alta Markets shall be deemed
       as a proper delivery. This includes both email address and post mail (physical) address.
     </div>
 
@@ -92,38 +92,38 @@
       3. Execution Services
     </div>
     <div class="conditions__text">
-      3.1. Altamarkets acts as an agent/broker when buying or selling fiat currencies or cryptocurrencies.
+      3.1. Alta Markets acts as an agent/broker when buying or selling fiat currencies or cryptocurrencies.
     </div>
     <div class="conditions__text">
-      3.2. As an agent/broker, Altamarkets acts for a Client and applies the best execution principles. Counterparties
-      that Altamarkets executes transactions with include OTC market makers and exchanges. This execution service carries
+      3.2. As an agent/broker, Alta Markets acts for a Client and applies the best execution principles. Counterparties
+      that Alta Markets executes transactions with include OTC market makers and exchanges. This execution service carries
       counterparty risks. Counterparty risk refers to a risk that a counterparty may not be able to fulfill its
       financial obligations as agreed upon in a contract or a transaction. These risks may include but are not limited
       to a credit risk, default risk, insolvency risk, and operational risk.
     </div>
     <div class="conditions__text">
-      3.3. Altamarkets AG shall not be liable for any loss which a Client may suffer as a consequence of a counterparty
+      3.3. Alta Markets AG shall not be liable for any loss which a Client may suffer as a consequence of a counterparty
       defaulting or breaching its legal obligations. This includes but is not limited to (i) a loss of positive mark to
       market on open trades (ii) collateral placed with a counterparty as margin requirement for open trades.
     </div>
     <div class="conditions__text">
-      3.4. Altamarkets reserves the right to restrict or cease the provision of the Execution Services or other services
+      3.4. Alta Markets reserves the right to restrict or cease the provision of the Execution Services or other services
       to comply with applicable law or regulations, standards of self- regulation, contractual provisions, business or
       trade practices, internal rules and policies and to ensure the performance according to the standards of due care.
     </div>
     <div class="conditions__text">
-      3.5. Altamarkets may freeze any funds, limit or refuse the execution of orders or instructions or refuse to accept
+      3.5. Alta Markets may freeze any funds, limit or refuse the execution of orders or instructions or refuse to accept
       funds any time in its discretion, in particular if it considers such measure to be required or beneficial for the
       protection of a Client. Orders may not be executed if they are not fully funded.
     </div>
     <div class="conditions__text">
-      3.6. Orders and instructions such as in-coming and out-going transfers are processed by Altamarkets in a reasonable
+      3.6. Orders and instructions such as in-coming and out-going transfers are processed by Alta Markets in a reasonable
       time. However, delays can always occur for various reasons, not limited to verification processes, origin of funds
       clarifications, checking compliance with regulations or technical/operational reasons.
     </div>
     <div class="conditions__text">
-      3.7. Altamarkets has established a proof-of-ownership process to verify that a Client is in control of external
-      blockchain addresses used for transfers connected to Altamarkets Services. Altamarkets will only execute transfer
+      3.7. Alta Markets has established a proof-of-ownership process to verify that a Client is in control of external
+      blockchain addresses used for transfers connected to Alta Markets Services. Alta Markets will only execute transfer
       requests to or from verified external blockchain addresses.
     </div>
 
@@ -131,26 +131,26 @@
       4. Placement of orders
     </div>
     <div class="conditions__text">
-      4.1. Altamarkets offers Execution Services through its own execution desk.
+      4.1. Alta Markets offers Execution Services through its own execution desk.
     </div>
     <div class="conditions__text">
       4.2. A Client must be onboarded in accordance with paragraph 2 of these Terms for the provision of the Execution
       Services.
     </div>
     <div class="conditions__text">
-      4.3. After being successfully onboarded and accepted, a Client will have assigned account manager from Altamarkets
+      4.3. After being successfully onboarded and accepted, a Client will have assigned account manager from Alta Markets
       (“Account Manager”).
     </div>
     <div class="conditions__text">
       4.4. A Client can contact the Account Manager to request a quote for a given cryptocurrency that is available for
-      execution by Altamarkets.
+      execution by Alta Markets.
     </div>
     <div class="conditions__text">
       4.5. A pending quote-request from a Client shall under no circumstances be considered as a binding instruction or
       agreement to which either Party is bound or committed in any way.
     </div>
     <div class="conditions__text">
-      4.6. A Client acknowledges and accepts, that Altamarkets under no circumstances can be liable for the loss of
+      4.6. A Client acknowledges and accepts, that Alta Markets under no circumstances can be liable for the loss of
       profits and/or limitation of losses resulting from not being able to buy or sell in the period of which a quote
       request from a Client is pending. This applies both to when a quote request is answered after a long waiting and
       for when a quote request is not answered at all.
@@ -160,41 +160,41 @@
       5. Execution of orders
     </div>
     <div class="conditions__text">
-      5.1. Altamarkets will do its best effort to provide a Client with the best execution of an order possible. The best
+      5.1. Alta Markets will do its best effort to provide a Client with the best execution of an order possible. The best
       execution is not necessarily the best price, but also takes into account market conditions, stability of the
       available execution platforms, volume, cost, speed and other factors relevant for the execution of the order.
     </div>
     <div class="conditions__text">
-      5.2. A Client accepts that a limit order placed by Altamarkets on behalf of a Client cannot be changed outside the
+      5.2. A Client accepts that a limit order placed by Alta Markets on behalf of a Client cannot be changed outside the
       working hours as stipulated in provision 6.1 in these Terms.
     </div>
     <div class="conditions__text">
-      5.3. A Client accepts that Altamarkets cannot guarantee a full execution of a limit order due to liquidity shortage
+      5.3. A Client accepts that Alta Markets cannot guarantee a full execution of a limit order due to liquidity shortage
       or other market conditions in general, even if the asset has been traded at any execution above or below a
       Client’s limit.
     </div>
     <div class="conditions__text">
-      5.4. For stop-loss orders placed by Altamarkets on behalf of and under instruction from a Client, a Client further
+      5.4. For stop-loss orders placed by Alta Markets on behalf of and under instruction from a Client, a Client further
       accepts that the order might not be executed at the given price due to liquidity shortage and that a slippage
       might occur as a further result hereof.
     </div>
     <div class="conditions__text">
-      5.5. Altamarkets offers to buy and sell cryptocurrencies that are listed on major cryptocurrency exchanges and it
-      remains at the sole discretion of Altamarkets to decide which cryptocurrencies can be bought or sold through Altamarkets.
+      5.5. Alta Markets offers to buy and sell cryptocurrencies that are listed on major cryptocurrency exchanges and it
+      remains at the sole discretion of Alta Markets to decide which cryptocurrencies can be bought or sold through Alta Markets.
     </div>
     <div class="conditions__text">
-      5.6. A Client accepts that Altamarkets cannot guarantee that cryptocurrencies bought through Altamarkets can also be
-      sold through Altamarkets.
+      5.6. A Client accepts that Alta Markets cannot guarantee that cryptocurrencies bought through Alta Markets can also be
+      sold through Alta Markets.
     </div>
 
     <div class="conditions__description">
       6. Execution confirmation
     </div>
     <div class="conditions__text">
-      6.1. A Client can request Altamarkets to send an execution confirmation for an executed order.
+      6.1. A Client can request Alta Markets to send an execution confirmation for an executed order.
     </div>
     <div class="conditions__text">
-      6.2. Altamarkets will send such execution confirmation within 24 hours of a Client’s request.
+      6.2. Alta Markets will send such execution confirmation within 24 hours of a Client’s request.
     </div>
     <div class="conditions__text">
       6.3. The execution confirmation will be sent to the e-mail account or other electronic means of communication
@@ -205,24 +205,24 @@
       7. Execution hours
     </div>
     <div class="conditions__text">
-      7.1. Altamarkets execution desk is available from Monday to Friday from 9am to 5pm, excluding Switzerland’s Bank
+      7.1. Alta Markets execution desk is available from Monday to Friday from 9am to 5pm, excluding Switzerland’s Bank
       Holidays.
     </div>
     <div class="conditions__text conditions__text__subtext">
-      a) For selling: When selling cryptocurrency for other cryptocurrency or fiat currency through Altamarkets, a Client
-      must notify Altamarkets once Client’s assets have been sent to a cryptocurrency address (wallet) provided by Altamarkets. Altamarkets cannot provide a Client with quotes before the arrival of cryptocurrency on the address
-      provided by Altamarkets. Arrival of Bitcoin (BTC) shall mean that a minimum of 6 blocks have confirmed the
+      a) For selling: When selling cryptocurrency for other cryptocurrency or fiat currency through Alta Markets, a Client
+      must notify Alta Markets once Client’s assets have been sent to a cryptocurrency address (wallet) provided by Alta Markets. Alta Markets cannot provide a Client with quotes before the arrival of cryptocurrency on the address
+      provided by Alta Markets. Arrival of Bitcoin (BTC) shall mean that a minimum of 6 blocks have confirmed the
       transaction. Arrival of Ethereum (ETH) and ERC20-tokens shall mean that a minimum of 30 blocks have confirmed the
       transaction.
     </div>
     <div class="conditions__text conditions__text__subtext">
-      b) For buying: When buying cryptocurrency for fiat currency through Altamarkets a Client must notify Altamarkets
-      once the fiat currency has been sent to the bank or payment service provider (PSP or EMI) account provided by Altamarkets. Altamarkets cannot provide a Client with quotes before the arrival of fiat currency on the bank or payment
-      service provider (PSP or EMI) account provided by Altamarkets. Altamarkets cannot provide a Client with quotes
-      before arrival of fiat currency on the bank or payment service provider (PSP or EMI) account provided by Altamarkets.
+      b) For buying: When buying cryptocurrency for fiat currency through Alta Markets a Client must notify Alta Markets
+      once the fiat currency has been sent to the bank or payment service provider (PSP or EMI) account provided by Alta Markets. Alta Markets cannot provide a Client with quotes before the arrival of fiat currency on the bank or payment
+      service provider (PSP or EMI) account provided by Alta Markets. Alta Markets cannot provide a Client with quotes
+      before arrival of fiat currency on the bank or payment service provider (PSP or EMI) account provided by Alta Markets.
     </div>
     <div class="conditions__text">
-      7.2. Under no circumstances can Altamarkets become liable for any losses and/or missed profits due to execution
+      7.2. Under no circumstances can Alta Markets become liable for any losses and/or missed profits due to execution
       requests not being answered according to provision 4.3.-4.11. of these Terms which also extent to requests made
       outside of the execution hours.
     </div>
@@ -231,7 +231,7 @@
       8. Execution Fees
     </div>
     <div class="conditions__text">
-      8.1. A Client is obliged to pay Altamarkets a fee (the “Fee”) upon the Execution Services provided by Altamarkets.
+      8.1. A Client is obliged to pay Alta Markets a fee (the “Fee”) upon the Execution Services provided by Alta Markets.
       The final price for the Execution Services is always a combination of the execution Fee and the execution quote.
     </div>
     <div class="conditions__text">
@@ -244,7 +244,7 @@
       9. Acceptance of risk
     </div>
     <div class="conditions__text">
-      9.1. A Client fully acknowledges the risks inherent with use of the Execution Services provided by Altamarkets.
+      9.1. A Client fully acknowledges the risks inherent with use of the Execution Services provided by Alta Markets.
       Such risks may include but are not limited to:
     </div>
     <div class="conditions__text conditions__text__subtext">
@@ -288,16 +288,16 @@
     </div>
     <div class="conditions__text">
       9.2. A Client fully acknowledges his personal liability for any and all potential losses resulting from an
-      investment and that Altamarkets only performs Client’s order execution under instructions from and on behalf of a
-      Client, thus keeping Altamarkets free of any liability and/or losses (so-called execution-only).
+      investment and that Alta Markets only performs Client’s order execution under instructions from and on behalf of a
+      Client, thus keeping Alta Markets free of any liability and/or losses (so-called execution-only).
     </div>
     <div class="conditions__text">
       9.3. A Client is solely responsible for all legal risks associated with using the Execution Services provided by
-      Altamarkets. A Client guarantees to comply with and act within all legal boundaries within the applicable
+      Alta Markets. A Client guarantees to comply with and act within all legal boundaries within the applicable
       jurisdiction to the business relationship especially including but not limited to tax laws.
     </div>
     <div class="conditions__text">
-      9.4. A Client accepts and releases Altamarkets of responsibility for all risk and damages resulting from an
+      9.4. A Client accepts and releases Alta Markets of responsibility for all risk and damages resulting from an
       undetected transmission error, misunderstanding, hacking or fraud arising from instructions given via e-mail or
       any other electronic communication channel.
     </div>
@@ -307,16 +307,16 @@
       fall.
     </div>
     <div class="conditions__text">
-      9.6. A Client is aware that Altamarkets is not a depository institution and can therefor only handle fiat or
-      cryptocurrencies in connection with an actual buy or sell transaction or settlement. This may require that Altamarkets, after notifying a Client, may convert fiat currency into crypto assets or send the fiat currency back to
-      Client’s account if a Client does not provide Altamarkets with further instructions.
+      9.6. A Client is aware that Alta Markets is not a depository institution and can therefor only handle fiat or
+      cryptocurrencies in connection with an actual buy or sell transaction or settlement. This may require that Alta Markets, after notifying a Client, may convert fiat currency into crypto assets or send the fiat currency back to
+      Client’s account if a Client does not provide Alta Markets with further instructions.
     </div>
 
     <div class="conditions__description">
       10. Exceptional markets conditions
     </div>
     <div class="conditions__text">
-      10.1. Altamarkets reserves the right to withdraw quotes, to not provide quotes or to not execute orders in
+      10.1. Alta Markets reserves the right to withdraw quotes, to not provide quotes or to not execute orders in
       exceptional markets conditions, especially but not limited to circumstances which results in liquidity shortage.
     </div>
 
@@ -324,11 +324,11 @@
       11. Termination
     </div>
     <div class="conditions__text">
-      11.1. The contractual relationship between Altamarkets and a Client may be terminated at any time and for any
-      reason by Altamarkets.
+      11.1. The contractual relationship between Alta Markets and a Client may be terminated at any time and for any
+      reason by Alta Markets.
     </div>
     <div class="conditions__text">
-      11.2. The contractual relationship between Altamarkets and a Client may be terminated by a Client with immediate
+      11.2. The contractual relationship between Alta Markets and a Client may be terminated by a Client with immediate
       effect for any reason.
     </div>
     <div class="conditions__text">
@@ -336,17 +336,17 @@
       receiving Party’s receipt of such notice.
     </div>
     <div class="conditions__text">
-      11.4. A Client accepts that a notice which is sent in accordance with the contact details provided to Altamarkets
+      11.4. A Client accepts that a notice which is sent in accordance with the contact details provided to Alta Markets
       shall be deemed as a proper delivery. This includes both email address and post mail (physical) address.
     </div>
     <div class="conditions__text">
-      11.5. A Client agrees that, upon termination a Client shall: (i) pay all outstanding debts to Altamarkets in full
+      11.5. A Client agrees that, upon termination a Client shall: (i) pay all outstanding debts to Alta Markets in full
       within ten (10) days; (ii) be bonded by all outstanding orders; and (iii) be bonded by all outstanding commitments
       with respect to completed orders.
     </div>
     <div class="conditions__text">
-      11.6. Without limiting the immediately preceding sentence, Altamarkets may also terminate the access to Altamarkets
-      website for any Client at any time, for any reason or no reason. Such Client shall have no recourse and Altamarkets
+      11.6. Without limiting the immediately preceding sentence, Alta Markets may also terminate the access to Alta Markets
+      website for any Client at any time, for any reason or no reason. Such Client shall have no recourse and Alta Markets
       shall have no liability with respect to any such termination.
     </div>
     <div class="conditions__text">
@@ -360,55 +360,55 @@
     </div>
     <div class="conditions__text">
       12.1. A Client warrants that it acts within and complies with all legal requirements applicable to the relevant
-      jurisdiction when using the services provided by Altamarkets.
+      jurisdiction when using the services provided by Alta Markets.
     </div>
     <div class="conditions__text">
       12.2. It is Client’s responsibility to asses and cohere to the applicable tax regulations.
     </div>
     <div class="conditions__text">
       12.3. For a private individual Client, a Client warrants that only a Client itself, who has been onboarded, is
-      using the Services at Altamarkets personally.
+      using the Services at Alta Markets personally.
     </div>
     <div class="conditions__text">
       12.4. For corporate Clients the person authorised to represent the company, foundation, association and/or another
       organisation and trade on its behalf according to the forms provided during the onboarding process, warrants that
-      only the authorised person is the user of the Execution Services provided by Altamarkets. If other person(s) shall
+      only the authorised person is the user of the Execution Services provided by Alta Markets. If other person(s) shall
       be allowed to use Execution Services on behalf of the onboarded corporate Client, a Power of Attorney must be
-      presented to and approved by Altamarkets.
+      presented to and approved by Alta Markets.
     </div>
 
     <div class="conditions__description">
       13. Force Majeure
     </div>
     <div class="conditions__text">
-      13.1. Altamarkets shall not be liable to a Client for any failure, damages, claims and/or losses from circumstances
+      13.1. Alta Markets shall not be liable to a Client for any failure, damages, claims and/or losses from circumstances
       beyond its reasonable control. Such situations include but are not limited to: telecommunication difficulties,
       failures or disruptions, non-availability to the execution technical platform for any reason, shut downs or other
       non-availability of executions for any reason, regulatory interference, enactment of new legislation, measures
       taken by authorities, power failure, internet service provider failure, industrial action, civil unrest, strikes,
-      lock outs or blockades (whether or not Altamarkets is a party to the conflict), catastrophes of nature, fire,
+      lock outs or blockades (whether or not Alta Markets is a party to the conflict), catastrophes of nature, fire,
       flood, storms, earthquakes, acts of terrorism, acts of war, governmental action or any other event that is beyond
-      the control of Altamarkets, notwithstanding that only part of Altamarkets’s functions are affected by such events
+      the control of Alta Markets, notwithstanding that only part of Alta Markets’s functions are affected by such events
       (“Force Majeure”).
     </div>
     <div class="conditions__text">
-      13.2. Altamarkets is released from any liability for partial or complete failure to perform its obligations under
+      13.2. Alta Markets is released from any liability for partial or complete failure to perform its obligations under
       the Terms including regarding any order and transaction pursuant to the Terms, if such failure is caused by Force
       Majeure circumstances.
     </div>
     <div class="conditions__text">
-      13.3. A Force Majeure situation does not terminate the Terms but immediately suspends the obligations of Altamarkets for all duration of the Force Majeure situation.
+      13.3. A Force Majeure situation does not terminate the Terms but immediately suspends the obligations of Alta Markets for all duration of the Force Majeure situation.
     </div>
     <div class="conditions__text">
-      13.4. Altamarkets shall swiftly inform a Client in case it invokes a Force Majeure situation. This notice shall
+      13.4. Alta Markets shall swiftly inform a Client in case it invokes a Force Majeure situation. This notice shall
       specify the date and time, the cause and the expected duration of the Force Majeure situation.
     </div>
     <div class="conditions__text">
-      13.5. Altamarkets shall use commercially reasonable efforts to resume performing its obligations after the ending
+      13.5. Alta Markets shall use commercially reasonable efforts to resume performing its obligations after the ending
       of a Force Majeure situation.
     </div>
     <div class="conditions__text">
-      13.6. Altamarkets and a Client agree to postpone any claim towards each other until the ending of the Force Majeure
+      13.6. Alta Markets and a Client agree to postpone any claim towards each other until the ending of the Force Majeure
       situation.
     </div>
 
@@ -416,25 +416,25 @@
       14. Limitation of liability
     </div>
     <div class="conditions__text">
-      14.1. To the extent permitted by law, Altamarkets does not accept any liability for the risks associated with the
+      14.1. To the extent permitted by law, Alta Markets does not accept any liability for the risks associated with the
       execution of trades and/or providing further services to a Client.
     </div>
     <div class="conditions__text">
-      14.2. Altamarkets limits its liability for appointed auxiliary persons. It does not assume any liability for damage
+      14.2. Alta Markets limits its liability for appointed auxiliary persons. It does not assume any liability for damage
       and/or loss caused by its auxiliary persons in carrying out their work in the event of slight misconduct.
     </div>
     <div class="conditions__text">
-      14.3. Altamarkets is not liable for any indirect and/or consequential losses, such as any loss of earnings and/or
+      14.3. Alta Markets is not liable for any indirect and/or consequential losses, such as any loss of earnings and/or
       third-party claims for damages.
     </div>
     <div class="conditions__text">
-      14.4. Altamarkets offers its services with the customary duty of care.
+      14.4. Alta Markets offers its services with the customary duty of care.
     </div>
     <div class="conditions__text">
-      14.5. In all events, the aggregate liability of Altamarkets for any reason and upon any cause of action, including,
-      without limitation, acts or omissions by Altamarkets or third parties and outages or non- availability of the
-      services of Altamarkets or any of the connected services, shall not exceed the amount of Fees, if any, paid by a
-      Client to Altamarkets in connection with the order that gave rise to the cause of action in question.
+      14.5. In all events, the aggregate liability of Alta Markets for any reason and upon any cause of action, including,
+      without limitation, acts or omissions by Alta Markets or third parties and outages or non- availability of the
+      services of Alta Markets or any of the connected services, shall not exceed the amount of Fees, if any, paid by a
+      Client to Alta Markets in connection with the order that gave rise to the cause of action in question.
     </div>
 
     <div class="conditions__description">
@@ -449,39 +449,39 @@
       16. Indemnification
     </div>
     <div class="conditions__text">
-      16.1. A Client shall indemnify, defend, and hold harmless Altamarkets, its officers, affiliates, directors, equity
+      16.1. A Client shall indemnify, defend, and hold harmless Alta Markets, its officers, affiliates, directors, equity
       holders, agents and employees with respect to any claim, demand, cause of action, debt, judgment or liability,
       including reasonable attorneys’ fees, to the extent that it is based upon a claim that: (i) arises out of or in
-      relation to their use of the Execution Services of Altamarkets and is not caused by the negligence or conduct of Altamarkets; (ii) if true, would constitute a breach of any of their representations, warranties or agreements
-      hereunder; or (iii) arises out of their gross negligence, wilful misconduct or abandonment. Altamarkets may, at its
-      discretion and at its own expense, assist in the defence of any indemnified claim through counsel selected by Altamarkets. Any settlement intended to bind Altamarkets shall not be valid or binding on Altamarkets without Altamarkets prior written consent.
+      relation to their use of the Execution Services of Alta Markets and is not caused by the negligence or conduct of Alta Markets; (ii) if true, would constitute a breach of any of their representations, warranties or agreements
+      hereunder; or (iii) arises out of their gross negligence, wilful misconduct or abandonment. Alta Markets may, at its
+      discretion and at its own expense, assist in the defence of any indemnified claim through counsel selected by Alta Markets. Any settlement intended to bind Alta Markets shall not be valid or binding on Alta Markets without Alta Markets prior written consent.
     </div>
 
     <div class="conditions__description">
       17. Client data
     </div>
     <div class="conditions__text">
-      17.1. If Altamarkets processes Client’s data, it shall take appropriate measures to ensure data protection.
+      17.1. If Alta Markets processes Client’s data, it shall take appropriate measures to ensure data protection.
     </div>
     <div class="conditions__text">
-      17.2. Altamarkets may be obliged to disclose Client’s data (in particular name, address and account number or
+      17.2. Alta Markets may be obliged to disclose Client’s data (in particular name, address and account number or
       International Bank Account Number “IBAN” to the banks involved, the operators of payment and communication systems
-      at home and abroad, as well as to the beneficiaries) to third parties. By using the services of Altamarkets, a
-      Client expressly authorizes Altamarkets to disclose the relevant data as well as any associated information to
+      at home and abroad, as well as to the beneficiaries) to third parties. By using the services of Alta Markets, a
+      Client expressly authorizes Alta Markets to disclose the relevant data as well as any associated information to
       third parties.
     </div>
     <div class="conditions__text">
-      17.3. Altamarkets may be obliged to share other data obtained from a Client (in particular KYC documentation,
+      17.3. Alta Markets may be obliged to share other data obtained from a Client (in particular KYC documentation,
       documentation regarding origin of funds) with involved banks to facilitate the execution of payments. A Client
-      expressly authorizes Altamarkets to disclose the relevant data as well as any associated information to third
+      expressly authorizes Alta Markets to disclose the relevant data as well as any associated information to third
       parties.
     </div>
     <div class="conditions__text">
-      17.4. A Client accepts, that Altamarkets may disclose Client’s data in order to fulfil regulatory or legal
-      information requests from authorities or to safeguard legitimate interests of Altamarkets.
+      17.4. A Client accepts, that Alta Markets may disclose Client’s data in order to fulfil regulatory or legal
+      information requests from authorities or to safeguard legitimate interests of Alta Markets.
     </div>
     <div class="conditions__text">
-      17.5. Altamarkets is authorised to buy, save, combine and collect Client’s data with the purpose of creating a
+      17.5. Alta Markets is authorised to buy, save, combine and collect Client’s data with the purpose of creating a
       Client profile which may be used for marketing purposes.
     </div>
 
@@ -489,11 +489,11 @@
       18. Restricted geography
     </div>
     <div class="conditions__text">
-      18.1. Altamarkets does not offer any of its services to US persons (persons with sole or additional citizenship of
+      18.1. Alta Markets does not offer any of its services to US persons (persons with sole or additional citizenship of
       the United States and/or residence in the United States), even if they are domiciled outside the United States.
     </div>
     <div class="conditions__text">
-      18.2. A Client is obliged to inform Altamarkets at least thirty (30) days in advance in written form of any future
+      18.2. A Client is obliged to inform Alta Markets at least thirty (30) days in advance in written form of any future
       circumstances which may cause him to be regarded as US person.
     </div>
 
@@ -501,16 +501,16 @@
       19. Relationship with Clients
     </div>
     <div class="conditions__text">
-      19.1. A Client and Altamarkets are independent contractors, and no agency, partnership, joint venture,
+      19.1. A Client and Alta Markets are independent contractors, and no agency, partnership, joint venture,
       employer-employee or other similar relationship is intended or created by Client’s acceptance of the Terms and/or
-      further agreements with Altamarkets.
+      further agreements with Alta Markets.
     </div>
 
     <div class="conditions__description">
       20. Outsourcing
     </div>
     <div class="conditions__text">
-      20.1. Altamarkets reserves the right to outsource business areas and services to group companies or third parties.
+      20.1. Alta Markets reserves the right to outsource business areas and services to group companies or third parties.
       A Client accepts that its data can be processed and send to said parties in relation hereto. A Client further
       accepts that said parties may transfer its data to further outsourcing providers. All provided data shall be kept
       confidential by the data processing parties.
@@ -520,11 +520,11 @@
       21. Amendments
     </div>
     <div class="conditions__text">
-      21.1. Altamarkets reserves the right to amend the Terms as needed.
+      21.1. Alta Markets reserves the right to amend the Terms as needed.
     </div>
     <div class="conditions__text">
       21.2. Amendments of these Terms shall be notified to a Client in advance. A Client is deemed to have accepted any
-      such amendments of these Terms if the Client does not within one month of the notification notify Altamarkets that
+      such amendments of these Terms if the Client does not within one month of the notification notify Alta Markets that
       it does not accept the amendments.
     </div>
 
@@ -547,10 +547,10 @@
     </div>
     <div class="conditions__text">
       23.2. A Client is deemed to have read, understood and accepted the most recent Terms and other regulations issued
-      by Altamarkets when using Services.
+      by Alta Markets when using Services.
     </div>
     <div class="conditions__text">
-      23.3. The most recent Terms and other documents are always available on Altamarkets’s website.
+      23.3. The most recent Terms and other documents are always available on Alta Markets’s website.
     </div>
   </AppDocPage>
 </template>
@@ -577,7 +577,7 @@ export default {
   setup() {
     if (!!process.server) {
       useHead({
-        title: "Terms and Conditions | Altamarkets",
+        title: "Terms and Conditions | Alta Markets",
 
         meta: [
           {
