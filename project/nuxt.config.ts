@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         { name: 'format-detection', content: 'telephone=no' },
         { hid: 'og:type', property: 'og:type', content: 'website' },
         { hid: 'og:title', property: "og:title", content: "Institutional-Grade Digital Asset Markets Access | Alta Markets" },
-        { hid: 'og:image', property: "og:image", content: process.env.FRONT_URL + "/img/preview.png" },
+        { hid: 'og:image', property: "og:image", content: process.env.FRONT_URL + "/img/preview.png?v=2" },
         {
           hid: 'og:description',
           property: "og:description",
@@ -26,9 +26,9 @@ export default defineNuxtConfig({
       ],
 
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: process.env.FRONT_URL + "/img/favicon.ico" },
-        { rel: "apple-touch-icon", type: "image/png", href: process.env.FRONT_URL + "/img/apple-touch-icon.png" },
-        { rel: "mask-icon", type: "image/svg+xml", color: "#000000", href: process.env.FRONT_URL + "/img/mask-icon.svg" },
+        { rel: 'icon', type: 'image/x-icon', href: process.env.FRONT_URL + "/img/favicon.ico?v=2" },
+        { rel: "apple-touch-icon", type: "image/png", href: process.env.FRONT_URL + "/img/apple-touch-icon.png?v=2" },
+        { rel: "mask-icon", type: "image/svg+xml", color: "#000000", href: process.env.FRONT_URL + "/img/mask-icon.svg?v=2" },
       ],
 
       script: [
@@ -39,14 +39,14 @@ export default defineNuxtConfig({
             '@context': 'https://schema.org/',
             "name": "Alta Markets",
             "url": process.env.FRONT_URL,
-            "logo": '/img/svg/logo-footer.svg',
-            // "address": {
-            //   "@type": "PostalAddress",
-            //   "streetAddress": "Dammstrasse 16",
-            //   "postalCode": "6300",
-            //   "addressLocality": "Zug",
-            //   "addressCountry": "Switzerland"
-            // },
+            "logo": '/img/svg/logo-footer.svg?v=2',
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Dammstrasse 16",
+              "postalCode": "6300",
+              "addressLocality": "Zug",
+              "addressCountry": "Switzerland"
+            },
             // "telephone": "+41 44 797 51 40",
             "email": "info@altamarkets.ch"
           })
