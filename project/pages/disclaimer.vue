@@ -6,7 +6,7 @@
       No Offer and/or Recommendation:
     </div>
     <div class="disclaimer__text">
-      Nothing contained in this marketing material and Alta Markets AG website <a href="/">(www.pidigital.swiss)</a>
+      Nothing contained in this marketing material and Alta Markets AG website <a href="/">(www.altamarkets.ch)</a>
       constitutes a
       solicitation or offer, or recommendation, to acquire or dispose of any investment or to engage in any other
       transaction. Information contained in this marketing material (and any of the data and documents that may be

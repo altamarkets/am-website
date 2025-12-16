@@ -155,7 +155,7 @@
     </div>
     <div class="brochure__text">
       Any opinions, news, research, analyses, prices, or other information contained on Alta Markets AG website
-      <a href="/">(www.pidigital.swiss)</a> is provided as general market information, and does not constitute any
+      <a href="/">(www.altamarkets.ch)</a> is provided as general market information, and does not constitute any
       trading advice or
       recommendation. Alta Markets AG will not accept liability for any loss or damage, including without limitation to,
       any loss of profit, which may arise directly or indirectly from the use of or reliance on such information.

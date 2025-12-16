@@ -213,7 +213,7 @@
     </div>
     <div class="privacy__text">
       If you require any additional information or have any further questions concerning this Privacy Policy, please
-      contact us at info@pidigital.swiss.
+      contact us at info@altamarkets.ch.
     </div>
 
     <div class="privacy__description">

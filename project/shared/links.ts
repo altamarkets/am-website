@@ -1,6 +1,6 @@
 export const twitter = "https://twitter.com/PIDigitalAG";
 export const linkedin = "https://linkedin.com/company/pidigitalag";
-export const medium = "https://medium.com/@pidigital.swiss";
+export const medium = "https://medium.com/@altamarkets.ch";
 
 export const kraken = "https://www.kraken.com/";
 export const fireblocks = "https://www.fireblocks.com/";
@@ -16,7 +16,7 @@ export const teamSection = "/#the-team-section"
 export const partnersSection = "/#the-partners-section"
 export const formSection = "/#the-form-section__form"
 
-export const platform = "https://platform.pidigital.swiss/login"
+export const platform = "https://platform.altamarkets.ch/login"
 
 export const coinDesk = "https://www.coindesk.com/business/2023/05/09/crypto-options-liquidity-provider-orbit-markets-offers-bitcoin-and-gold-hybrid-derivative/";
 export const yahoo = "https://finance.yahoo.com/news/crypto-options-liquidity-provider-orbit-005506656.html";

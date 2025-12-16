@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Host: https://pidigital.swiss/
-Sitemap: https://pidigital.swiss/sitemap.xml
+Host: https://altamarkets.ch/
+Sitemap: https://altamarkets.ch/sitemap.xml
