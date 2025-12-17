@@ -17,6 +17,8 @@ export default defineNuxtConfig({
         { hid: 'og:type', property: 'og:type', content: 'website' },
         { hid: 'og:title', property: "og:title", content: "Institutional-Grade Digital Asset Markets Access | Alta Markets" },
         { hid: 'og:image', property: "og:image", content: process.env.FRONT_URL + "/img/preview.png?v=2" },
+        { hid: 'og:image:width', property: 'og:image:width', content: '1200' },
+        { hid: 'og:image:height', property: 'og:image:height', content: '630' },
         {
           hid: 'og:description',
           property: "og:description",
@@ -116,8 +118,8 @@ export default defineNuxtConfig({
           style: 'normal',
           weight: 'normal',
           sources: [
-            { src: '@/public/fonts/Inter/Inter-Regular.woff', type:'woff' },
-            { src: '@/public/fonts/Inter/Inter-Regular.woff2', type:'woff2' }
+            { src: '@/public/fonts/Inter/Inter-Regular.woff', type: 'woff' },
+            { src: '@/public/fonts/Inter/Inter-Regular.woff2', type: 'woff2' }
           ]
         }
       ]
@@ -130,8 +132,8 @@ export default defineNuxtConfig({
           style: 'normal',
           weight: 'normal',
           sources: [
-            { src: '@/public/fonts/ManiaExtendedC/ManiaExtendedC.woff', type:'woff' },
-            { src: '@/public/fonts/ManiaExtendedC/ManiaExtendedC.woff2', type:'woff2' }
+            { src: '@/public/fonts/ManiaExtendedC/ManiaExtendedC.woff', type: 'woff' },
+            { src: '@/public/fonts/ManiaExtendedC/ManiaExtendedC.woff2', type: 'woff2' }
           ]
         }
       ]
