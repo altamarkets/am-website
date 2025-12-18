@@ -7,7 +7,7 @@
         </h1>
 
         <p class="the-planet-section__text">
-          Access digital asset market through secure, compliant and efficient provider
+          Access digital asset markets through secure, compliant and efficient provider
         </p>
       </div>
 

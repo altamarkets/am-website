@@ -285,9 +285,11 @@
   &__title {
     color: #FFF;
     width: 275px;
+    font-size: 26px;
 
     @media (min-width: $screen-xsm) {
       width: 362px;
+      font-size: 30px;
     }
 
     @media (min-width: $screen-sm) {
@@ -324,6 +326,6 @@
   &__form {
     width: 500px;
     height: 600px;
-    background: red;
+    // background: red;
   }
 }
