@@ -1,9 +1,9 @@
 <template>
   <AppDocPage>
     <h1 class="conditions__title">{{ title }}</h1>
-    <div class="conditions__description">
+    <!-- <div class="conditions__description">
       25.05.2023
-    </div>
+    </div> -->
     <div class="conditions__text">
       These Terms and Conditions (the "Agreement") are applicable to the: (i) web pages, (ii) services, (iii) content,
       (iv) databases and (v) information (collectively referred to as the "Services") together with the agreements
