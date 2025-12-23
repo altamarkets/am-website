@@ -6,7 +6,7 @@
     </div>
     <div class="privacy__text">
       The privacy practice of collecting and processing of personal data provided by the Clients to Alta Markets AG, legal
-      entity duly incorporated in Swiss Confederation with registered number CHE-155.913.212 is described hereby. The
+      entity duly incorporated in Swiss Confederation with registered number CHE-105.015.009 is described hereby. The
       provisions of this Privacy Policy are subject to Regulation (EU) 2016/679 of the European Parliament and of the
       Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and
       on the free movement of such data (“Regulation”) and the Federal Data Protection Act of 19 June 1992 (Swiss
