@@ -3,11 +3,21 @@
     <div class="the-planet-section__container">
       <div class="the-planet-section__content">
         <h1 class="general-title the-planet-section__title">
-          Institutional-Grade Digital Asset Markets Access
+          Invest beyond crypto
         </h1>
 
         <p class="the-planet-section__text">
-          Access digital asset markets through secure, compliant and efficient provider
+          Alta Markets is building a bridge between digital assets and regulated financial markets.<br />
+          Qualified and institutional clients are able to use their digital asset holdings to access traditional and structured financial instruments within a regulated framework.
+        </p>
+
+        <h1 class="general-title the-planet-section__title">
+          What we do
+        </h1>
+
+        <p class="the-planet-section__text">
+          Alta Markets enables the use of digital assets as collateral or subscription capital for regulated financial products, expanding investment possibilities beyond the crypto ecosystem.<br />
+          Our platform is designed for qualified and institutional investors seeking compliant, sophisticated exposure to traditional markets while leveraging their digital asset portfolios.
         </p>
       </div>
 
