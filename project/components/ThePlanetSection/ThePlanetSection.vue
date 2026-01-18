@@ -68,7 +68,7 @@
             </div>
           </div>
 
-          <div class="the-form-section__service">
+          <!-- <div class="the-form-section__service">
             <div
               class="the-form-section__service-title"
               :class="{
@@ -98,7 +98,7 @@
                 ></v-checkbox>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <div class="the-form-section__form-texts">
             <v-textarea
