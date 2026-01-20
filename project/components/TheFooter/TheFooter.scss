@@ -1,7 +1,12 @@
 @import "@/styles/_breakpoints.scss";
 
 .the-footer {
-  background: #0F1128;
+  // background: #0F1128;
+  background: linear-gradient(180deg,
+      #083730 0%,
+      #062823 45%,
+      #051F1B 75%,
+      #031312 100%);
 
   &__container {
     padding: 90px 30px;

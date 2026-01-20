@@ -4,7 +4,7 @@ import Linkedin from "@/public/img/svg/linkedin.svg"
 import Medium from "@/public/img/svg/medium.svg"
 import * as links from "../../shared/links"
 
-import logo from "/img/png/logo_def.png";
+import logo from "/img/png/logo_white.png";
 
 export default {
   components: {

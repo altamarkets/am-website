@@ -1,6 +1,7 @@
 <template>
   <div>
-    <ThePlanetSection/>
+    <TheFirst />
+    <TheSecond />
     <!-- <TheServicesSection/> -->
     <!-- <TheExecutionSection/> -->
     <!-- <TheReasonsSection/> -->
@@ -12,7 +13,11 @@
 </template>
 
 <script>
-import {useHead} from '#app';
+import { useHead } from '#app';
+
+import TheFirst from "@/components/TheFirst/TheFirst.vue";
+import TheSecond from "@/components/TheSecond/TheSecond.vue";
+
 import ThePlanetSection from "@/components/ThePlanetSection/ThePlanetSection.vue";
 import TheServicesSection from "@/components/TheServicesSection/TheServicesSection.vue";
 import TheExecutionSection from "@/components/TheExecutionSection/TheExecutionSection.vue";
@@ -33,6 +38,8 @@ export default {
     ThePartnersSection,
     TheMediaSection,
     TheFormSection,
+    TheFirst,
+    TheSecond,
   },
   props: {},
   data: () => ({}),
@@ -56,7 +63,7 @@ export default {
           },
         ],
 
-        link: [{rel: "canonical", href: process.env.FRONT_URL + "/"}],
+        link: [{ rel: "canonical", href: process.env.FRONT_URL + "/" }],
       })
     }
   }
